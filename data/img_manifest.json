@@ -18,5 +18,31 @@
    "h": 905,
    "kw": "visa-tips"
   }
+ ],
+ "uzbekistan-5n6d-course": [
+  {
+   "file": "uzbekistan-5n6d-course-uz5n6d-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uz5n6d-facts"
+  },
+  {
+   "file": "uzbekistan-5n6d-course-uz5n6d-route.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "uz5n6d-route"
+  },
+  {
+   "file": "uzbekistan-5n6d-course-uz5n6d-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "uz5n6d-months"
+  },
+  {
+   "file": "uzbekistan-5n6d-course-uz5n6d-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "uz5n6d-tips"
+  }
  ]
 }
