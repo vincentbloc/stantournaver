@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>중앙아시아 여행 가이드</title>
+    <link>https://stantournaver.com/</link>
+    <description>우즈베키스탄, 카자흐스탄, 키르기스스탄 등 중앙아시아 여행 정보 — 비자, 직항 항공편, 추천 코스, 여행 경비 가이드</description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 13 Oct 2026 19:00:00 +0900</lastBuildDate>
+    <atom:link href="https://stantournaver.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>중앙아시아 여행 가이드 2026 — 코스·경비·비자·직항 총정리</title>
+      <link>https://stantournaver.com/</link>
+      <guid isPermaLink="true">https://stantournaver.com/</guid>
+      <pubDate>Tue, 13 Oct 2026 18:30:00 +0900</pubDate>
+      <description>우즈베키스탄·카자흐스탄·키르기스스탄·타지키스탄·투르크메니스탄 5개국 완벽 정리. 무비자 입국 조건, 인천·부산 직항 노선, 7일·10일·14일 추천 코스, 여행 경비, 음식, 준비물까지 한 페이지에 담은 중앙아시아 여행 종합 가이드.</description>
+    </item>
+  </channel>
+</rss>
