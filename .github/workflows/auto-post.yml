@@ -1,0 +1,96 @@
+name: 자동 글쓰기
+
+on:
+  schedule:
+    - cron: "23 1 * * *"   # 매일 한국 시간 오전 10시 23분 (1편)
+    - cron: "23 7 * * *"   # 매일 한국 시간 오후 4시 23분 (1편) — GitHub 사정으로 늦어질 수 있음
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "이번에 쓸 글 수"
+        default: "1"
+
+concurrency:
+  group: auto-post
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: 최신 main 받기 (재실행해도 충돌 없게)
+        run: git pull --ff-only origin main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 이미지 생성 도구 설치 (브라우저·한글/이모지 폰트)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-color-emoji
+          pip install -q playwright pillow
+          python -m playwright install --with-deps chromium
+
+      - name: Claude가 글 작성
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            저장소 루트의 AUTOMATION.md를 먼저 끝까지 읽고, 그 지침을 정확히 따라 새 글 ${{ github.event.inputs.count || '1' }}편을 작성하세요. 양보다 질이 중요합니다. 지침의 '품질 기준'과 '셀프 검토'를 빠짐없이 지키세요.
+            오늘 날짜는 `date +%F` 결과(한국 시간)를 사용하세요.
+            빌드(python3 src/build_site.py)와 검사(python3 src/validate.py)에서 오류가 0개가 될 때까지 고치세요.
+            git commit/push는 하지 마세요. 워크플로가 검사 후 자동으로 올립니다.
+          claude_args: |
+            --model opus
+            --max-turns 120
+            --allowedTools "Bash(python3:*),Bash(ls:*),Bash(date:*),Bash(cat:*),Bash(head:*),Bash(grep:*),Read,Write,Edit,Glob,Grep,WebSearch,WebFetch"
+
+      - name: 최종 검사
+        run: |
+          python3 src/build_site.py
+          python3 src/validate.py
+
+      - name: 사이트에 게시 (main에 푸시 → Cloudflare 자동 배포)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "stantournaver-bot"
+          git config user.email "bot@stantournaver.com"
+          git config --unset-all http.https://github.com/.extraheader || true
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          [ -f .gitignore ] || printf '__pycache__/\n*.pyc\n.DS_Store\n' > .gitignore
+          git rm -r -q --cached --ignore-unmatch src/__pycache__ || true
+          git add -A
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          NEWFILE=$(git diff --cached --name-only --diff-filter=A -- data/posts | head -1)
+          if [ -n "$NEWFILE" ]; then python3 -c "import json,sys;print(json.load(open(sys.argv[1]))['slug'])" "$NEWFILE" > /tmp/slug.txt; fi
+          TITLES=$(git diff --cached --name-only --diff-filter=A -- data/posts | sed 's#data/posts/##; s#\.json##' | paste -sd ', ')
+          git commit -m "새 글: ${TITLES}"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: 사이트 반영 확인 (20분 안에 안 뜨면 실패로 표시 → 메일 알림)
+        run: |
+          SLUG=$(cat /tmp/slug.txt 2>/dev/null)
+          if [ -z "$SLUG" ]; then echo "새 글 없음 - 확인 생략"; exit 0; fi
+          URL="https://stantournaver.com/travel/$SLUG/"
+          for i in $(seq 1 40); do
+            CODE=$(curl -s -o /dev/null -w "%{http_code}" "$URL?check=$i")
+            if [ "$CODE" = "200" ]; then echo "사이트 반영 완료: $URL"; exit 0; fi
+            sleep 30
+          done
+          echo "::error::새 글이 사이트에 안 보입니다. Cloudflare → Workers & Pages → stantournaver → 배포 기록에서 실패한 빌드의 Retry를 눌러 주세요. $URL"
+          exit 1

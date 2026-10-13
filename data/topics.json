@@ -1,0 +1,222 @@
+[
+ {
+  "id": 1,
+  "topic": "우즈베키스탄 여행 코스 5박6일: 타슈켄트·사마르칸트·부하라 동선",
+  "slug": "uzbekistan-5n6d-course",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["우즈베키스탄 여행 코스", "우즈베키스탄 자유여행", "우즈베키스탄 5박6일", "타슈켄트 사마르칸트"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 2,
+  "topic": "사마르칸트 여행 가볼만한곳: 레기스탄 야경 보는 법까지",
+  "slug": "samarkand-travel",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["사마르칸트 여행", "레기스탄", "사마르칸트 가볼만한곳", "우즈베키스탄 사마르칸트"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 3,
+  "topic": "아프로시욥 고속철 예매 방법: 타슈켄트-사마르칸트-부하라 기차 이동 총정리",
+  "slug": "afrosiyob-train-booking",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["아프로시욥", "우즈베키스탄 기차", "타슈켄트 사마르칸트 기차", "우즈베키스탄 고속철 예매"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 4,
+  "topic": "알마티 여행 코스 3박4일: 시내와 근교 투어 일정 짜는 법",
+  "slug": "almaty-3n4d-course",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "city",
+  "keywords": ["알마티 여행", "알마티 여행 코스", "카자흐스탄 알마티", "알마티 3박4일"],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 5,
+  "topic": "차른 캐니언 투어 총정리: 알마티에서 가는 법과 콜사이·카인디 묶는 법",
+  "slug": "charyn-canyon-tour",
+  "city": "알마티 근교",
+  "region": "kz",
+  "cat": "nature",
+  "keywords": ["차른 캐니언", "차린 캐니언", "알마티 근교 투어", "콜사이 호수", "카인디 호수"],
+  "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 6,
+  "topic": "비슈케크 여행 가이드: 가볼만한곳과 알라아르차 반나절 트레킹",
+  "slug": "bishkek-travel",
+  "city": "비슈케크",
+  "region": "kg",
+  "cat": "city",
+  "keywords": ["비슈케크 여행", "키르기스스탄 여행", "알라아르차", "비슈케크 가볼만한곳"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 7,
+  "topic": "이식쿨 호수 여행: 촐폰아타 vs 카라콜, 어디로 갈까",
+  "slug": "issyk-kul-travel",
+  "city": "이식쿨",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": ["이식쿨 호수", "키르기스스탄 이식쿨", "촐폰아타", "카라콜 여행"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 8,
+  "topic": "중앙아시아 환전 가이드: 달러 준비부터 숨·텡게·솜 환전 요령까지",
+  "slug": "central-asia-money-guide",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 환전", "카자흐스탄 환전", "중앙아시아 환전", "숨 환전"],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 9,
+  "topic": "얀덱스 고 사용법: 중앙아시아 택시 호출 앱 완전 정리",
+  "slug": "yandex-go-guide",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["얀덱스 고", "얀덱스 택시", "우즈베키스탄 택시", "알마티 택시"],
+  "scene": "taxi",
+  "status": "todo"
+ },
+ {
+  "id": 10,
+  "topic": "부하라 여행 가볼만한곳: 구시가 도보 코스와 1박2일 일정",
+  "slug": "bukhara-travel",
+  "city": "부하라",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["부하라 여행", "부하라 가볼만한곳", "우즈베키스탄 부하라", "실크로드 여행"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 11,
+  "topic": "히바 여행: 성벽 도시 이찬칼라 하루 코스와 가는 법",
+  "slug": "khiva-travel",
+  "city": "히바",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["히바 여행", "이찬칼라", "우즈베키스탄 히바", "히바 가는법"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 12,
+  "topic": "중앙아시아 유심·이심 가이드: 공항 유심부터 이심 준비까지",
+  "slug": "central-asia-sim-guide",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 유심", "카자흐스탄 유심", "중앙아시아 이심", "해외 유심"],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 13,
+  "topic": "침불락 가는 법: 알마티 케이블카·스키장 이용 총정리",
+  "slug": "shymbulak-guide",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "spot",
+  "keywords": ["침불락", "알마티 스키장", "침불락 케이블카", "카자흐스탄 스키"],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 14,
+  "topic": "송쿨 호수 유르트 체험: 여름 한정 1박2일 투어 준비법",
+  "slug": "song-kul-yurt",
+  "city": "송쿨",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": ["송쿨 호수", "유르트 체험", "키르기스스탄 송쿨", "유목민 체험"],
+  "scene": "yurt_steppe",
+  "status": "todo"
+ },
+ {
+  "id": 15,
+  "topic": "타슈켄트 여행 가볼만한곳: 초르수 바자르부터 지하철 투어까지",
+  "slug": "tashkent-travel",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["타슈켄트 여행", "타슈켄트 가볼만한곳", "초르수 바자르", "타슈켄트 지하철"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 16,
+  "topic": "중앙아시아 음식 가이드: 플로프·라그만·샤슬릭 주문법",
+  "slug": "central-asia-food",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 음식", "플로프", "라그만", "우즈베키스탄 음식"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 17,
+  "topic": "아스타나 여행: 알마티와 뭐가 다를까, 가볼만한곳 정리",
+  "slug": "astana-travel",
+  "city": "아스타나",
+  "region": "kz",
+  "cat": "city",
+  "keywords": ["아스타나 여행", "카자흐스탄 수도", "아스타나 가볼만한곳", "누르술탄"],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 18,
+  "topic": "파미르 하이웨이 여행 준비: 코스·차량·숙소·고산병 대비",
+  "slug": "pamir-highway-guide",
+  "city": "타지키스탄",
+  "region": "other",
+  "cat": "nature",
+  "keywords": ["파미르 하이웨이", "타지키스탄 여행", "파미르 고원", "오지 여행"],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 19,
+  "topic": "중앙아시아 겨울 여행: 12~2월에 갈만한 곳과 준비물",
+  "slug": "central-asia-winter",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 겨울 여행", "알마티 겨울", "겨울 해외여행", "침불락 스키"],
+  "scene": "ice_castle",
+  "status": "todo"
+ },
+ {
+  "id": 20,
+  "topic": "우즈베키스탄 vs 카자흐스탄: 첫 중앙아시아 여행지 고르는 법",
+  "slug": "uzbekistan-vs-kazakhstan",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 카자흐스탄", "중앙아시아 여행지 추천", "첫 중앙아시아", "중앙아시아 비교"],
+  "scene": "suitcase",
+  "status": "todo"
+ }
+]
