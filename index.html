@@ -164,10 +164,34 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--marigold);outline-
   max-width:620px;
   margin-bottom:30px;
 }
-.hero-facts{display:flex;flex-wrap:wrap;gap:10px 26px;font-weight:600;font-size:.98rem}
+.hero-facts{display:flex;flex-wrap:wrap;gap:10px 26px;font-weight:600;font-size:.98rem;margin-bottom:30px}
 .hero-facts li{list-style:none;display:flex;align-items:center;gap:9px}
 .hero-facts .dot{width:10px;height:10px;border-radius:3px;flex:none}
 .dot-a{background:#ffd98a}.dot-b{background:#7fe0d8}.dot-c{background:#ffb3a7}
+.btn-cafe{
+  display:inline-block;
+  background:#ffd98a;
+  color:#15336b;
+  font-weight:800;
+  font-size:1.02rem;
+  padding:13px 26px;
+  border-radius:12px;
+  box-shadow:0 4px 14px rgba(0,0,0,.18);
+}
+.btn-cafe:hover{background:#ffe3a8;text-decoration:none}
+
+/* ───── 카페 CTA 밴드 ───── */
+.cafe-band{
+  background:linear-gradient(135deg,#1f4d9e,#1b7d8e);
+  color:#fff;
+  border-radius:var(--radius);
+  padding:30px 28px;
+  margin:46px 0;
+  text-align:center;
+}
+.cafe-band h2{color:#fff;font-size:1.4rem;margin-bottom:10px}
+.cafe-band p{color:#dcebf7;max-width:560px;margin:0 auto 20px}
+.cafe-band .btn-cafe{box-shadow:none}
 
 /* ───── 목차 ───── */
 .toc{background:var(--card);border-bottom:1px solid var(--line)}
@@ -363,6 +387,7 @@ footer p{color:#c6d4ee;margin-bottom:6px}
       <li><span class="dot dot-b"></span>인천·부산 출발 직항 운항</li>
       <li><span class="dot dot-c"></span>비행 6~7시간, 시차 3~4시간</li>
     </ul>
+    <a class="btn-cafe" href="https://cafe.naver.com/snowiii" target="_blank" rel="noopener">네이버 카페에서 여행 정보 받기 →</a>
   </div>
 </header>
 
@@ -583,6 +608,12 @@ footer p{color:#c6d4ee;margin-bottom:6px}
   </article>
 </section>
 
+<aside class="cafe-band">
+  <h2>중앙아시아 여행, 혼자 준비하지 마세요</h2>
+  <p>항공권 특가, 도시별 최신 후기, 일정 질문과 답변까지 — 네이버 카페에서 중앙아시아 여행 정보를 받아보고 궁금한 점을 바로 물어볼 수 있습니다.</p>
+  <a class="btn-cafe" href="https://cafe.naver.com/snowiii" target="_blank" rel="noopener">카페 가입하러 가기 →</a>
+</aside>
+
 <section id="budget" data-tone="marigold">
   <div class="h2-band"><h2>여행 경비 — 생각보다 가볍습니다</h2></div>
   <p>중앙아시아 물가는 전반적으로 한국보다 낮습니다. 항공권이 전체 경비에서 가장 큰 비중을 차지하고, 현지에서는 숙박·식사·교통 모두 합리적인 가격에 해결됩니다. 아래는 2026년 기준 대략적인 범위이며, 환율과 시즌에 따라 달라질 수 있습니다.</p>
@@ -683,11 +714,18 @@ footer p{color:#c6d4ee;margin-bottom:6px}
   </details>
 </section>
 
+<aside class="cafe-band">
+  <h2>더 자세한 이야기는 카페에서</h2>
+  <p>이 페이지에 다 담지 못한 도시별 세부 코스, 환전·유심 꿀팁, 여행자들의 생생한 질문과 답변이 카페에 모여 있습니다.</p>
+  <a class="btn-cafe" href="https://cafe.naver.com/snowiii" target="_blank" rel="noopener">네이버 카페 바로가기 →</a>
+</aside>
+
 </main>
 
 <footer>
   <div class="wrap">
     <span class="brand">중앙아시아 여행 가이드</span>
+    <p><a href="https://cafe.naver.com/snowiii" target="_blank" rel="noopener" style="color:#ffd98a;font-weight:700">네이버 카페</a>에서 중앙아시아 여행 정보와 질문 답변을 함께 나누세요.</p>
     <p>이 페이지의 비자·항공·물가 정보는 2026년 10월 13일 기준으로 작성되었으며, 각국 정책과 운항 일정에 따라 변동될 수 있습니다.</p>
     <p>여행 전 외교부 해외안전여행 사이트와 각 항공사 공식 홈페이지에서 최신 정보를 확인하시기 바랍니다.</p>
   </div>
