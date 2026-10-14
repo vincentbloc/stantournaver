@@ -70,5 +70,31 @@
    "h": 905,
    "kw": "samarkand-tips"
   }
+ ],
+ "afrosiyob-train-booking": [
+  {
+   "file": "afrosiyob-train-booking-afrosiyob-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "afrosiyob-facts"
+  },
+  {
+   "file": "afrosiyob-train-booking-afrosiyob-compare.jpg",
+   "w": 1200,
+   "h": 700,
+   "kw": "afrosiyob-compare"
+  },
+  {
+   "file": "afrosiyob-train-booking-afrosiyob-checklist.jpg",
+   "w": 1200,
+   "h": 712,
+   "kw": "afrosiyob-checklist"
+  },
+  {
+   "file": "afrosiyob-train-booking-afrosiyob-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "afrosiyob-tips"
+  }
  ]
 }

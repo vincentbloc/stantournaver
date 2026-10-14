@@ -32,7 +32,8 @@
   "cat": "prep",
   "keywords": ["아프로시욥", "우즈베키스탄 기차", "타슈켄트 사마르칸트 기차", "우즈베키스탄 고속철 예매"],
   "scene": "train",
-  "status": "todo"
+  "status": "done",
+  "post": "afrosiyob-train-booking"
  },
  {
   "id": 4,
