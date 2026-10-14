@@ -20,7 +20,8 @@
   "cat": "spot",
   "keywords": ["사마르칸트 여행", "레기스탄", "사마르칸트 가볼만한곳", "우즈베키스탄 사마르칸트"],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "samarkand-travel"
  },
  {
   "id": 3,

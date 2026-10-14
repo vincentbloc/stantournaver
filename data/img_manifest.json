@@ -44,5 +44,31 @@
    "h": 905,
    "kw": "uz5n6d-tips"
   }
+ ],
+ "samarkand-travel": [
+  {
+   "file": "samarkand-travel-samarkand-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "samarkand-facts"
+  },
+  {
+   "file": "samarkand-travel-samarkand-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "samarkand-rank"
+  },
+  {
+   "file": "samarkand-travel-samarkand-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "samarkand-timebar"
+  },
+  {
+   "file": "samarkand-travel-samarkand-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "samarkand-tips"
+  }
  ]
 }
