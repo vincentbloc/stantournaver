@@ -122,5 +122,25 @@
    "h": 816,
    "kw": "almaty-tips"
   }
+ ],
+ "charyn-canyon-tour": [
+  {
+   "file": "charyn-canyon-tour-charyn-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "charyn-facts"
+  },
+  {
+   "file": "charyn-canyon-tour-charyn-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "charyn-steps"
+  },
+  {
+   "file": "charyn-canyon-tour-charyn-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "charyn-tips"
+  }
  ]
 }
