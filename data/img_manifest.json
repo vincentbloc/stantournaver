@@ -162,5 +162,25 @@
    "h": 905,
    "kw": "bishkek-tips"
   }
+ ],
+ "issyk-kul-travel": [
+  {
+   "file": "issyk-kul-travel-issyk-kul-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "issyk-kul-facts"
+  },
+  {
+   "file": "issyk-kul-travel-issyk-kul-compare.jpg",
+   "w": 1200,
+   "h": 749,
+   "kw": "issyk-kul-compare"
+  },
+  {
+   "file": "issyk-kul-travel-issyk-kul-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "issyk-kul-tips"
+  }
  ]
 }
