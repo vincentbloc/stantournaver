@@ -142,5 +142,25 @@
    "h": 860,
    "kw": "charyn-tips"
   }
+ ],
+ "bishkek-travel": [
+  {
+   "file": "bishkek-travel-bishkek-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "bishkek-facts"
+  },
+  {
+   "file": "bishkek-travel-bishkek-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "bishkek-timebar"
+  },
+  {
+   "file": "bishkek-travel-bishkek-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "bishkek-tips"
+  }
  ]
 }

@@ -68,7 +68,8 @@
   "cat": "city",
   "keywords": ["비슈케크 여행", "키르기스스탄 여행", "알라아르차", "비슈케크 가볼만한곳"],
   "scene": "mountain_lake",
-  "status": "todo"
+  "status": "done",
+  "post": "bishkek-travel"
  },
  {
   "id": 7,
