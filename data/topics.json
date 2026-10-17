@@ -92,7 +92,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 환전", "카자흐스탄 환전", "중앙아시아 환전", "숨 환전"],
   "scene": "phone_pay",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-money-guide"
  },
  {
   "id": 9,

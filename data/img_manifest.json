@@ -182,5 +182,31 @@
    "h": 816,
    "kw": "issyk-kul-tips"
   }
+ ],
+ "central-asia-money-guide": [
+  {
+   "file": "central-asia-money-guide-central-asia-money-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-money-facts"
+  },
+  {
+   "file": "central-asia-money-guide-central-asia-money-checklist.jpg",
+   "w": 1200,
+   "h": 643,
+   "kw": "central-asia-money-checklist"
+  },
+  {
+   "file": "central-asia-money-guide-central-asia-money-where.jpg",
+   "w": 1200,
+   "h": 770,
+   "kw": "central-asia-money-where"
+  },
+  {
+   "file": "central-asia-money-guide-central-asia-money-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-money-tips"
+  }
  ]
 }
