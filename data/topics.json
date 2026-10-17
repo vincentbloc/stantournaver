@@ -104,7 +104,8 @@
   "cat": "prep",
   "keywords": ["얀덱스 고", "얀덱스 택시", "우즈베키스탄 택시", "알마티 택시"],
   "scene": "taxi",
-  "status": "todo"
+  "status": "done",
+  "post": "yandex-go-guide"
  },
  {
   "id": 10,

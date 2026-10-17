@@ -208,5 +208,25 @@
    "h": 816,
    "kw": "central-asia-money-tips"
   }
+ ],
+ "yandex-go-guide": [
+  {
+   "file": "yandex-go-guide-yandex-go-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "yandex-go-facts"
+  },
+  {
+   "file": "yandex-go-guide-yandex-go-setup-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "yandex-go-setup-steps"
+  },
+  {
+   "file": "yandex-go-guide-yandex-go-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "yandex-go-tips"
+  }
  ]
 }
