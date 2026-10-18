@@ -254,5 +254,25 @@
    "h": 905,
    "kw": "bukhara-tips"
   }
+ ],
+ "khiva-travel": [
+  {
+   "file": "khiva-travel-khiva-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "khiva-facts"
+  },
+  {
+   "file": "khiva-travel-khiva-compare.jpg",
+   "w": 1200,
+   "h": 763,
+   "kw": "khiva-compare"
+  },
+  {
+   "file": "khiva-travel-khiva-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "khiva-tips"
+  }
  ]
 }

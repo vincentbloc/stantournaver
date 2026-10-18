@@ -128,7 +128,8 @@
   "cat": "spot",
   "keywords": ["히바 여행", "이찬칼라", "우즈베키스탄 히바", "히바 가는법"],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "khiva-travel"
  },
  {
   "id": 12,
@@ -227,6 +228,116 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 카자흐스탄", "중앙아시아 여행지 추천", "첫 중앙아시아", "중앙아시아 비교"],
   "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 21,
+  "topic": "중앙아시아 직항 총정리: 인천에서 타슈켄트·알마티·비슈케크 가는 법",
+  "slug": "central-asia-direct-flights",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 직항", "타슈켄트 직항", "알마티 직항", "비슈케크 직항"],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 22,
+  "topic": "우즈베키스탄 여행 경비: 5박6일 항공·숙소·교통·식비 계산법",
+  "slug": "uzbekistan-travel-cost",
+  "city": "우즈베키스탄",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 여행 경비", "우즈베키스탄 물가", "우즈베키스탄 자유여행 비용", "우즈베키스탄 여행 예산"],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 23,
+  "topic": "중앙아시아 3국 여행 일정: 우즈베키스탄·카자흐스탄·키르기스스탄 2주 동선",
+  "slug": "central-asia-3-countries-course",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "city",
+  "keywords": ["중앙아시아 3국 여행", "중앙아시아 일정", "중앙아시아 2주", "중앙아시아 여행 코스"],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 24,
+  "topic": "중앙아시아 여행 시기: 나라별·월별로 언제 가면 좋을까",
+  "slug": "central-asia-best-season",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 여행 시기", "우즈베키스탄 날씨", "카자흐스탄 날씨", "키르기스스탄 여행 시기"],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 25,
+  "topic": "빅 알마티 호수 가는 법: 투어·택시 선택과 출입 제한 확인법",
+  "slug": "big-almaty-lake",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "nature",
+  "keywords": ["빅 알마티 호수", "알마티 호수", "알마티 근교", "카자흐스탄 호수"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 26,
+  "topic": "알틴아라샨 트레킹: 카라콜에서 온천 계곡까지 1박2일 준비법",
+  "slug": "altyn-arashan-trek",
+  "city": "카라콜",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": ["알틴아라샨", "카라콜 트레킹", "키르기스스탄 트레킹", "카라콜 여행"],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 27,
+  "topic": "샤흐리삽즈 당일치기: 사마르칸트에서 가는 법과 아미르 티무르 유적",
+  "slug": "shahrisabz-day-trip",
+  "city": "샤흐리삽즈",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["샤흐리삽즈", "사마르칸트 근교", "아크사라이 궁전", "우즈베키스탄 당일치기"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 28,
+  "topic": "페르가나 계곡 여행: 리쉬탄 도자기 마을과 마르길란 실크 공방",
+  "slug": "fergana-valley",
+  "city": "페르가나",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["페르가나 계곡", "리쉬탄 도자기", "마르길란 실크", "우즈베키스탄 페르가나"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 29,
+  "topic": "두샨베 여행: 타지키스탄 수도 가볼만한곳과 무비자 입국 정리",
+  "slug": "dushanbe-travel",
+  "city": "두샨베",
+  "region": "other",
+  "cat": "city",
+  "keywords": ["두샨베 여행", "타지키스탄 여행", "두샨베 가볼만한곳", "타지키스탄 무비자"],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 30,
+  "topic": "누쿠스·아랄해 투어: 사비츠키 미술관과 무이낙 배 무덤 가는 법",
+  "slug": "nukus-aral-sea",
+  "city": "누쿠스",
+  "region": "uz",
+  "cat": "nature",
+  "keywords": ["아랄해 투어", "누쿠스 여행", "사비츠키 미술관", "무이낙"],
+  "scene": "canyon",
   "status": "todo"
  }
 ]
