@@ -228,5 +228,31 @@
    "h": 816,
    "kw": "yandex-go-tips"
   }
+ ],
+ "bukhara-travel": [
+  {
+   "file": "bukhara-travel-bukhara-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "bukhara-facts"
+  },
+  {
+   "file": "bukhara-travel-bukhara-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "bukhara-timebar"
+  },
+  {
+   "file": "bukhara-travel-bukhara-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "bukhara-months"
+  },
+  {
+   "file": "bukhara-travel-bukhara-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "bukhara-tips"
+  }
  ]
 }
