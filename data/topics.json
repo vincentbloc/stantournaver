@@ -152,7 +152,8 @@
   "cat": "spot",
   "keywords": ["침불락", "알마티 스키장", "침불락 케이블카", "카자흐스탄 스키"],
   "scene": "snow_mountain",
-  "status": "todo"
+  "status": "done",
+  "post": "shymbulak-guide"
  },
  {
   "id": 14,

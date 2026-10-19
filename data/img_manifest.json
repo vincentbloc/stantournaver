@@ -300,5 +300,25 @@
    "h": 860,
    "kw": "central-asia-sim-tips"
   }
+ ],
+ "shymbulak-guide": [
+  {
+   "file": "shymbulak-guide-shymbulak-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "shymbulak-facts"
+  },
+  {
+   "file": "shymbulak-guide-shymbulak-route-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "shymbulak-route-steps"
+  },
+  {
+   "file": "shymbulak-guide-shymbulak-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "shymbulak-tips"
+  }
  ]
 }
