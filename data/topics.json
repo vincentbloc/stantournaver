@@ -140,7 +140,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 유심", "카자흐스탄 유심", "중앙아시아 이심", "해외 유심"],
   "scene": "phone_pay",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-sim-guide"
  },
  {
   "id": 13,

@@ -274,5 +274,31 @@
    "h": 905,
    "kw": "khiva-tips"
   }
+ ],
+ "central-asia-sim-guide": [
+  {
+   "file": "central-asia-sim-guide-central-asia-sim-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-sim-facts"
+  },
+  {
+   "file": "central-asia-sim-guide-central-asia-sim-rank.jpg",
+   "w": 1200,
+   "h": 902,
+   "kw": "central-asia-sim-rank"
+  },
+  {
+   "file": "central-asia-sim-guide-central-asia-sim-checklist.jpg",
+   "w": 1200,
+   "h": 616,
+   "kw": "central-asia-sim-checklist"
+  },
+  {
+   "file": "central-asia-sim-guide-central-asia-sim-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "central-asia-sim-tips"
+  }
  ]
 }
