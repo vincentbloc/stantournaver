@@ -164,7 +164,8 @@
   "cat": "nature",
   "keywords": ["송쿨 호수", "유르트 체험", "키르기스스탄 송쿨", "유목민 체험"],
   "scene": "yurt_steppe",
-  "status": "todo"
+  "status": "done",
+  "post": "song-kul-yurt"
  },
  {
   "id": 15,

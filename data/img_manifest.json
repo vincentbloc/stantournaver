@@ -320,5 +320,31 @@
    "h": 816,
    "kw": "shymbulak-tips"
   }
+ ],
+ "song-kul-yurt": [
+  {
+   "file": "song-kul-yurt-song-kul-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "song-kul-facts"
+  },
+  {
+   "file": "song-kul-yurt-song-kul-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "song-kul-months"
+  },
+  {
+   "file": "song-kul-yurt-song-kul-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "song-kul-timebar"
+  },
+  {
+   "file": "song-kul-yurt-song-kul-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "song-kul-tips"
+  }
  ]
 }
