@@ -176,7 +176,8 @@
   "cat": "city",
   "keywords": ["타슈켄트 여행", "타슈켄트 가볼만한곳", "초르수 바자르", "타슈켄트 지하철"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "tashkent-travel"
  },
  {
   "id": 16,

@@ -346,5 +346,25 @@
    "h": 860,
    "kw": "song-kul-tips"
   }
+ ],
+ "tashkent-travel": [
+  {
+   "file": "tashkent-travel-tashkent-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tashkent-facts"
+  },
+  {
+   "file": "tashkent-travel-tashkent-compare.jpg",
+   "w": 1200,
+   "h": 815,
+   "kw": "tashkent-compare"
+  },
+  {
+   "file": "tashkent-travel-tashkent-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-tips"
+  }
  ]
 }
