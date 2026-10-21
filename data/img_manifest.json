@@ -366,5 +366,31 @@
    "h": 816,
    "kw": "tashkent-tips"
   }
+ ],
+ "central-asia-food": [
+  {
+   "file": "central-asia-food-central-asia-food-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-food-facts"
+  },
+  {
+   "file": "central-asia-food-central-asia-food-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "central-asia-food-rank"
+  },
+  {
+   "file": "central-asia-food-central-asia-food-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "central-asia-food-checklist"
+  },
+  {
+   "file": "central-asia-food-central-asia-food-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-food-tips"
+  }
  ]
 }

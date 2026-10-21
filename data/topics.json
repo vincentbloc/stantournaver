@@ -188,7 +188,8 @@
   "cat": "prep",
   "keywords": ["중앙아시아 음식", "플로프", "라그만", "우즈베키스탄 음식"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-food"
  },
  {
   "id": 17,
