@@ -200,7 +200,8 @@
   "cat": "city",
   "keywords": ["아스타나 여행", "카자흐스탄 수도", "아스타나 가볼만한곳", "누르술탄"],
   "scene": "city_night",
-  "status": "todo"
+  "status": "done",
+  "post": "astana-travel"
  },
  {
   "id": 18,

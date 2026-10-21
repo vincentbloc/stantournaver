@@ -392,5 +392,25 @@
    "h": 816,
    "kw": "central-asia-food-tips"
   }
+ ],
+ "astana-travel": [
+  {
+   "file": "astana-travel-astana-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "astana-travel-facts"
+  },
+  {
+   "file": "astana-travel-astana-day-route-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "astana-day-route-steps"
+  },
+  {
+   "file": "astana-travel-astana-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "astana-travel-tips"
+  }
  ]
 }
