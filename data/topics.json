@@ -224,7 +224,8 @@
   "cat": "prep",
   "keywords": ["중앙아시아 겨울 여행", "알마티 겨울", "겨울 해외여행", "침불락 스키"],
   "scene": "ice_castle",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-winter"
  },
  {
   "id": 20,

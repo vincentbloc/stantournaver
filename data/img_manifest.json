@@ -432,5 +432,31 @@
    "h": 816,
    "kw": "pamir-highway-tips"
   }
+ ],
+ "central-asia-winter": [
+  {
+   "file": "central-asia-winter-central-asia-winter-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-winter-facts"
+  },
+  {
+   "file": "central-asia-winter-central-asia-winter-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "central-asia-winter-timebar"
+  },
+  {
+   "file": "central-asia-winter-central-asia-winter-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "central-asia-winter-compare"
+  },
+  {
+   "file": "central-asia-winter-central-asia-winter-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-winter-tips"
+  }
  ]
 }
