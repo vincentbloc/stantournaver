@@ -212,7 +212,8 @@
   "cat": "nature",
   "keywords": ["파미르 하이웨이", "타지키스탄 여행", "파미르 고원", "오지 여행"],
   "scene": "highland_road",
-  "status": "todo"
+  "status": "done",
+  "post": "pamir-highway-guide"
  },
  {
   "id": 19,

@@ -412,5 +412,25 @@
    "h": 816,
    "kw": "astana-travel-tips"
   }
+ ],
+ "pamir-highway-guide": [
+  {
+   "file": "pamir-highway-guide-pamir-highway-guide-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "pamir-highway-guide-facts"
+  },
+  {
+   "file": "pamir-highway-guide-pamir-highway-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "pamir-highway-months"
+  },
+  {
+   "file": "pamir-highway-guide-pamir-highway-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "pamir-highway-tips"
+  }
  ]
 }
