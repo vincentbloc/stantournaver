@@ -248,7 +248,8 @@
   "cat": "prep",
   "keywords": ["중앙아시아 직항", "타슈켄트 직항", "알마티 직항", "비슈케크 직항"],
   "scene": "suitcase",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-direct-flights"
  },
  {
   "id": 22,
@@ -347,6 +348,116 @@
   "cat": "nature",
   "keywords": ["아랄해 투어", "누쿠스 여행", "사비츠키 미술관", "무이낙"],
   "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 31,
+  "topic": "우즈베키스탄 기념품 쇼핑: 수자니·도자기·실크 고르는 법과 흥정 요령",
+  "slug": "uzbekistan-souvenirs",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 기념품", "수자니", "우즈베키스탄 쇼핑", "부하라 기념품"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 32,
+  "topic": "카라콜 여행: 이식쿨 동쪽 거점 도시 가볼만한곳과 근교 투어",
+  "slug": "karakol-travel",
+  "city": "카라콜",
+  "region": "kg",
+  "cat": "city",
+  "keywords": ["카라콜 여행", "카라콜 가볼만한곳", "제티오구즈", "키르기스스탄 카라콜"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 33,
+  "topic": "콜사이 호수·카인디 호수 1박2일: 알마티에서 가는 법과 숙소 고르기",
+  "slug": "kolsai-kaindy-lakes",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "nature",
+  "keywords": ["콜사이 호수", "카인디 호수", "알마티 근교", "콜사이 1박2일"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 34,
+  "topic": "투르키스탄 여행: 호자 아흐메드 야사위 영묘와 쉼켄트 연결 동선",
+  "slug": "turkistan-travel",
+  "city": "투르키스탄",
+  "region": "kz",
+  "cat": "city",
+  "keywords": ["투르키스탄 여행", "야사위 영묘", "카자흐스탄 투르키스탄", "쉼켄트"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 35,
+  "topic": "오시 여행: 키르기스스탄 남부 술라이만산과 오시 바자르",
+  "slug": "osh-travel",
+  "city": "오시",
+  "region": "kg",
+  "cat": "city",
+  "keywords": ["오시 여행", "술라이만산", "오시 바자르", "키르기스스탄 남부"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 36,
+  "topic": "타슈켄트-알마티 이동 방법: 항공·버스·열차 비교와 국경 넘는 법",
+  "slug": "tashkent-almaty-transfer",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["타슈켄트 알마티", "타슈켄트 알마티 이동", "중앙아시아 국경", "우즈베키스탄 카자흐스탄 이동"],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 37,
+  "topic": "알마티-비슈케크 이동 방법: 국경 버스·택시 타는 법과 소요 시간",
+  "slug": "almaty-bishkek-transfer",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["알마티 비슈케크", "알마티 비슈케크 이동", "코르다이 국경", "카자흐스탄 키르기스스탄 이동"],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 38,
+  "topic": "부모님과 우즈베키스탄 여행: 걷기 적은 동선과 숙소·교통 고르는 법",
+  "slug": "uzbekistan-with-parents",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["부모님 우즈베키스탄", "우즈베키스탄 효도여행", "우즈베키스탄 부모님 자유여행", "사마르칸트 부모님"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 39,
+  "topic": "우즈베키스탄 숙소 고르기: 사마르칸트·부하라 구시가 호텔 위치별 장단점",
+  "slug": "uzbekistan-hotels",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 숙소", "사마르칸트 호텔", "부하라 숙소", "우즈베키스탄 호텔 추천"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 40,
+  "topic": "중앙아시아 여행 준비물: 계절별 옷차림과 사원 방문 복장 체크리스트",
+  "slug": "central-asia-packing-list",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 여행 준비물", "우즈베키스탄 준비물", "중앙아시아 옷차림", "카자흐스탄 여행 준비물"],
+  "scene": "suitcase",
   "status": "todo"
  }
 ]
