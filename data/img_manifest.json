@@ -504,5 +504,31 @@
    "h": 816,
    "kw": "central-asia-direct-flights-tips"
   }
+ ],
+ "uzbekistan-travel-cost": [
+  {
+   "file": "uzbekistan-travel-cost-uzbekistan-travel-cost-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-travel-cost-facts"
+  },
+  {
+   "file": "uzbekistan-travel-cost-uzbekistan-travel-cost-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "uzbekistan-travel-cost-compare"
+  },
+  {
+   "file": "uzbekistan-travel-cost-uzbekistan-travel-cost-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "uzbekistan-travel-cost-months"
+  },
+  {
+   "file": "uzbekistan-travel-cost-uzbekistan-travel-cost-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "uzbekistan-travel-cost-tips"
+  }
  ]
 }

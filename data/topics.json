@@ -260,7 +260,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 여행 경비", "우즈베키스탄 물가", "우즈베키스탄 자유여행 비용", "우즈베키스탄 여행 예산"],
   "scene": "phone_pay",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-travel-cost"
  },
  {
   "id": 23,
