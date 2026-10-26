@@ -622,5 +622,25 @@
    "h": 816,
    "kw": "altyn-arashan-tips"
   }
+ ],
+ "shahrisabz-day-trip": [
+  {
+   "file": "shahrisabz-day-trip-shahrisabz-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "shahrisabz-facts"
+  },
+  {
+   "file": "shahrisabz-day-trip-shahrisabz-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "shahrisabz-timebar"
+  },
+  {
+   "file": "shahrisabz-day-trip-shahrisabz-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "shahrisabz-tips"
+  }
  ]
 }
