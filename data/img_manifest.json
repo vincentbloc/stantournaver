@@ -602,5 +602,25 @@
    "h": 816,
    "kw": "big-almaty-lake-tips"
   }
+ ],
+ "altyn-arashan-trek": [
+  {
+   "file": "altyn-arashan-trek-altyn-arashan-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "altyn-arashan-facts"
+  },
+  {
+   "file": "altyn-arashan-trek-altyn-arashan-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "altyn-arashan-steps"
+  },
+  {
+   "file": "altyn-arashan-trek-altyn-arashan-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "altyn-arashan-tips"
+  }
  ]
 }
