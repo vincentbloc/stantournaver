@@ -332,7 +332,8 @@
   "cat": "city",
   "keywords": ["페르가나 계곡", "리쉬탄 도자기", "마르길란 실크", "우즈베키스탄 페르가나"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "fergana-valley"
  },
  {
   "id": 29,

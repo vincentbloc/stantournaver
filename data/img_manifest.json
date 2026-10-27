@@ -642,5 +642,31 @@
    "h": 816,
    "kw": "shahrisabz-tips"
   }
+ ],
+ "fergana-valley": [
+  {
+   "file": "fergana-valley-fergana-valley-facts.jpg",
+   "w": 1200,
+   "h": 862,
+   "kw": "fergana-valley-facts"
+  },
+  {
+   "file": "fergana-valley-fergana-valley-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "fergana-valley-rank"
+  },
+  {
+   "file": "fergana-valley-fergana-valley-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "fergana-valley-checklist"
+  },
+  {
+   "file": "fergana-valley-fergana-valley-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "fergana-valley-tips"
+  }
  ]
 }
