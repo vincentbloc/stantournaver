@@ -668,5 +668,31 @@
    "h": 860,
    "kw": "fergana-valley-tips"
   }
+ ],
+ "dushanbe-travel": [
+  {
+   "file": "dushanbe-travel-dushanbe-travel-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "dushanbe-travel-facts"
+  },
+  {
+   "file": "dushanbe-travel-dushanbe-travel-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "dushanbe-travel-months"
+  },
+  {
+   "file": "dushanbe-travel-dushanbe-travel-compare.jpg",
+   "w": 1200,
+   "h": 799,
+   "kw": "dushanbe-travel-compare"
+  },
+  {
+   "file": "dushanbe-travel-dushanbe-travel-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "dushanbe-travel-tips"
+  }
  ]
 }

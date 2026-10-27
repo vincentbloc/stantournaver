@@ -344,7 +344,8 @@
   "cat": "city",
   "keywords": ["두샨베 여행", "타지키스탄 여행", "두샨베 가볼만한곳", "타지키스탄 무비자"],
   "scene": "city_night",
-  "status": "todo"
+  "status": "done",
+  "post": "dushanbe-travel"
  },
  {
   "id": 30,
