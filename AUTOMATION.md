@@ -32,7 +32,7 @@ GitHub Actions(`.github/workflows/auto-post.yml`)가 매일 2번(오전·오후)
   `<ul class="check">` 체크리스트, `<ol class="rank">`(`<li><b>이름</b><span>설명</span><em>태그</em></li>`), `<ol class="steps">`, `<div class="timeline"><div class="d"><b>…</b><span>…</span></div></div>`, `<table>`, `<div class="tip"><b>제목</b> 내용</div>`, `<div class="summary"><b>제목</b> 내용</div>`, `<p class="note">`, `<div class="chips"><span>…</span></div>`, `<div class="compare3">`(`.two`), `<div class="beach|themes|daycards"><div><b>…</b><p>…</p></div></div>`, `<div class="bignum"><div><b>…</b><span>…</span></div></div>`, `<div class="qablock"><h2>…</h2><p>…</p></div>`
 - 본문: `<h2>` 5~7개, 순수 글자 **2,000자 이상**. 첫 문단(lead 포함)에 핵심 키워드가 자연스럽게 들어가게.
 - 소제목(h2) 중 2개 이상에 핵심 키워드(도시명·명소명)를 넣는다.
-- 본문 안에 기존 글·메인 페이지로 가는 **내부 링크 2개 이상** (`/travel/<slug>/`, `/`, `/travel/` 등 실제로 있는 주소만. `data/posts/`에 있는 slug만 글 링크로 쓴다).
+- 본문 안에 기존 글·메인 페이지로 가는 **내부 링크 2개 이상** (`/travel/<slug>/`, `/`, `/travel/`, 국가 총정리 `/uzbekistan/`·`/kazakhstan/`·`/kyrgyzstan/` 등 실제로 있는 주소만. `data/posts/`에 있는 slug만 글 링크로 쓴다). 글 주제가 특정 국가면 그 나라 총정리 페이지 링크를 우선 넣는다.
 - `title`: `핵심키워드 + 부제 | 보조키워드들` 형식. `x.stitle`: 검색 결과용 짧은 제목(45자 이하, 핵심 키워드를 맨 앞에).
 - `desc`: 80~130자, 핵심 키워드 포함, 클릭하고 싶게.
 - `kw`: 쉼표로 구분한 검색어 8~12개.
@@ -72,6 +72,6 @@ GitHub Actions(`.github/workflows/auto-post.yml`)가 매일 2번(오전·오후)
 
 ## 손대지 말 것
 
-- `site/index.html`(메인 랜딩페이지)은 빌드가 `<!-- latest-start -->` 블록만 자동 갱신한다. 그 밖의 부분은 직접 수정하지 않는다.
+- `site/index.html`(메인 랜딩페이지)과 `site/uzbekistan|kazakhstan|kyrgyzstan/index.html`(국가 총정리)은 빌드가 `<!-- latest-start -->`·`<!-- related-start -->` 블록과 기준 날짜만 자동 갱신한다. 그 밖의 부분은 직접 수정하지 않는다.
 - `src/` 템플릿은 버그가 아니면 수정하지 않는다. 수정했다면 `--all` 없이 빌드해 기존 이미지를 다시 만들지 않는다.
 - 인증 코드, 카페 주소, 도메인은 바꾸지 않는다.

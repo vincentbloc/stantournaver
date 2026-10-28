@@ -18,7 +18,20 @@ REGION = {  # accent, dark, label
 }
 CAT = {"city": "도시 가이드", "spot": "명소·자연", "nature": "자연·체험", "prep": "준비·실용"}
 
-HUBS = []  # 도시 총정리 페이지가 생기면 여기에 추가 (chinatournaver 방식)
+HUBS = [  # 국가별 총정리 페이지 (site/<slug>/index.html은 손으로 관리, 빌드는 글 목록만 갱신)
+    dict(slug="uzbekistan", path="/uzbekistan/", city="우즈베키스탄", region="uz", cat="city", accent=("#1b9d96", "#0b4844"),
+         title="우즈베키스탄 여행 총정리 | 코스·비자·고속철·경비 가이드",
+         desc="무비자 30일 조건, 인천·부산 직항, 타슈켄트·사마르칸트·부하라·히바 코스, 아프로시욥 고속철 예매, 경비까지 한 페이지에 정리했습니다.",
+         thumb=("우즈베키스탄 여행 총정리", "코스·비자·고속철·경비")),
+    dict(slug="kazakhstan", path="/kazakhstan/", city="카자흐스탄", region="kz", cat="city", accent=("#2a7fd4", "#0f3c6b"),
+         title="카자흐스탄 여행 총정리 | 알마티 코스·근교 투어·비자 가이드",
+         desc="알마티 3박4일 코스, 차른 캐니언·빅 알마티 호수·침불락 근교 투어, 무비자 30일과 직항 정보까지 정리했습니다.",
+         thumb=("카자흐스탄 여행 총정리", "알마티 코스·근교 투어")),
+    dict(slug="kyrgyzstan", path="/kyrgyzstan/", city="키르기스스탄", region="kg", cat="city", accent=("#c0392b", "#5a1a14"),
+         title="키르기스스탄 여행 총정리 | 이식쿨·송쿨·트레킹 가이드",
+         desc="무비자 60일의 산악 국가. 비슈케크, 이식쿨 호수, 송쿨 유르트, 알틴아라샨 트레킹까지 산과 호수 여행을 정리했습니다.",
+         thumb=("키르기스스탄 여행 총정리", "이식쿨·송쿨·트레킹")),
+]
 
 def load_posts():
     ps = [json.load(open(f, encoding="utf-8")) for f in sorted(glob.glob(os.path.join(ROOT, "data", "posts", "*.json")))]
@@ -347,7 +360,34 @@ def patch_landing():
         block = '\n'
     s = re.sub(r"\n?<!-- latest-start -->.*?<!-- latest-end -->\n?",
                "\n<!-- latest-start -->" + block + "<!-- latest-end -->\n", s, flags=re.S)
+    # 기준 날짜 자동 갱신 (최신 글 날짜 기준)
+    y, m, d = LATEST.split("-")
+    s = re.sub(r"20\d\d년 \d{1,2}월 기준", f"{y}년 {int(m)}월 기준", s)
+    s = re.sub(r"20\d\d년 \d{1,2}월 \d{1,2}일 기준", f"{y}년 {int(m)}월 {int(d)}일 기준", s)
+    s = re.sub(r'"dateModified": "20\d\d-\d\d-\d\d"', f'"dateModified": "{LATEST}"', s)
     open(f, "w", encoding="utf-8").write(s)
+
+# ───────────────────────────── 허브(국가 총정리) 페이지에 글 목록 주입
+def patch_hubs():
+    card = lambda x: (f'<a href="{x["path"]}" style="display:block;text-decoration:none;color:inherit;border:1px solid #e7dfcd;border-radius:14px;overflow:hidden;background:#fff">'
+                      f'<img src="/assets/thumb/{x["slug"]}.jpg" alt="{esc(item_title(x))}" loading="lazy" width="1200" height="630" style="width:100%;height:auto;display:block">'
+                      f'<span style="display:block;padding:10px 14px 12px;font-size:15px;font-weight:700;line-height:1.5;color:#232a3f">{esc(item_title(x))}</span></a>')
+    for h in HUBS:
+        f = os.path.join(OUT, h["slug"], "index.html")
+        if not os.path.exists(f): continue
+        s = open(f, encoding="utf-8").read()
+        mine = [x for x in POSTS if x["region"] == h["region"]]
+        prep = [x for x in POSTS if x["region"] == "prep"][:2]
+        if mine:
+            cards = "".join(card(x) for x in mine + prep)
+            block = (f'\n<section id="posts"><h2>{esc(h["city"])} 여행 글 모음 ({len(mine)}편)</h2>'
+                     f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px">{cards}</div>'
+                     f'<p style="margin-top:12px"><a href="/travel/">전체 글 보기 →</a></p></section>\n')
+        else:
+            block = '\n'
+        s = re.sub(r"\n?<!-- related-start -->.*?<!-- related-end -->\n?",
+                   "\n<!-- related-start -->" + block + "<!-- related-end -->\n", s, flags=re.S)
+        open(f, "w", encoding="utf-8").write(s)
 
 def write_feeds():
     urls = ["/", "/travel/"] + [h["path"] for h in HUBS] + [p["path"] for p in POSTS]

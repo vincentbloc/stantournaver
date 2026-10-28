@@ -5,7 +5,7 @@ from build import SITE, OUT, CAFE, DATE, DATE_DOT, NAVER, CAT, HUBS, POSTS, esc,
 from scenes import SCENES
 import infographics as IG
 
-HUB_SCENE = {}
+HUB_SCENE = {"uzbekistan": "dome_city", "kazakhstan": "snow_mountain", "kyrgyzstan": "mountain_lake"}
 MANIFEST = os.path.join(B.ROOT, "data", "img_manifest.json")
 
 for p in POSTS:
@@ -148,7 +148,7 @@ def ask_box(p):
 
 def hub_of(p):
     for h in HUBS:
-        if p["slug"].startswith(h["slug"] + "-") or p["city"].startswith(h["city"]): return h
+        if p["region"] == h["region"]: return h
     return None
 
 def more_box(p):
@@ -313,6 +313,6 @@ if __name__ == "__main__":
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(render_post(p, man))
     os.makedirs(os.path.join(OUT, "travel"), exist_ok=True)
     open(os.path.join(OUT, "travel", "index.html"), "w", encoding="utf-8").write(B.render_index())
-    B.patch_landing(); B.write_feeds(); write_sitemap(man)
+    B.patch_landing(); B.patch_hubs(); B.write_feeds(); write_sitemap(man)
     route_cafe_links()
     print("ok", sum(len(v) for v in man.values()), "body images")
