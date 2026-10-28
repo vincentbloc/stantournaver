@@ -368,7 +368,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 기념품", "수자니", "우즈베키스탄 쇼핑", "부하라 기념품"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-souvenirs"
  },
  {
   "id": 32,
@@ -467,6 +468,116 @@
   "cat": "prep",
   "keywords": ["중앙아시아 여행 준비물", "우즈베키스탄 준비물", "중앙아시아 옷차림", "카자흐스탄 여행 준비물"],
   "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 41,
+  "topic": "침간산·차르박 호수 당일치기: 타슈켄트 근교 케이블카와 가는 법",
+  "slug": "chimgan-charvak",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "nature",
+  "keywords": ["침간산", "차르박 호수", "타슈켄트 근교", "아미르소이"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 42,
+  "topic": "우즈베키스탄 거주등록 총정리: 호텔·민박·지인 집 숙박할 때 확인할 것",
+  "slug": "uzbekistan-registration",
+  "city": "우즈베키스탄",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 거주등록", "우즈베키스탄 레지스트라치야", "우즈베키스탄 입국 주의사항", "우즈베키스탄 숙박 등록"],
+  "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 43,
+  "topic": "히바-부하라 이동 방법: 기차·택시·항공 비교와 키질쿰 사막 구간",
+  "slug": "khiva-bukhara-transfer",
+  "city": "히바",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["히바 부하라 이동", "히바 부하라 기차", "히바 가는 법", "우즈베키스탄 도시 이동"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 44,
+  "topic": "우즈베키스탄 국내선 항공: 타슈켄트 출발 노선·예약·수하물 규정",
+  "slug": "uzbekistan-domestic-flights",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 국내선", "우즈베키스탄 항공", "타슈켄트 우르겐치 항공", "우즈베키스탄 비행기 예약"],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 45,
+  "topic": "알틴에멜 국립공원: 노래하는 모래언덕 투어와 알마티 출발 1박2일",
+  "slug": "altyn-emel",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "nature",
+  "keywords": ["알틴에멜", "노래하는 모래언덕", "알마티 근교 투어", "카자흐스탄 국립공원"],
+  "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 46,
+  "topic": "키르기스스탄 승마 트레킹: 초보자도 가능한 코스와 투어 고르는 법",
+  "slug": "kyrgyzstan-horse-trek",
+  "city": "키르기스스탄",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": ["키르기스스탄 승마", "키르기스스탄 말 트레킹", "키르기스스탄 투어", "유르트 승마 체험"],
+  "scene": "yurt_steppe",
+  "status": "todo"
+ },
+ {
+  "id": 47,
+  "topic": "이스칸데르쿨 호수: 두샨베에서 가는 법과 판 산맥 당일·1박 일정",
+  "slug": "iskanderkul-lake",
+  "city": "두샨베",
+  "region": "other",
+  "cat": "nature",
+  "keywords": ["이스칸데르쿨", "타지키스탄 호수", "두샨베 근교", "판 산맥"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 48,
+  "topic": "다르바자 지옥의 문 투어: 투르크메니스탄 비자·경유 조건과 일정",
+  "slug": "darvaza-gas-crater",
+  "city": "투르크메니스탄",
+  "region": "other",
+  "cat": "spot",
+  "keywords": ["지옥의 문", "다르바자", "투르크메니스탄 여행", "투르크메니스탄 비자"],
+  "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 49,
+  "topic": "나브루즈 축제 여행: 3월 중앙아시아 봄맞이 행사와 일정 짜는 법",
+  "slug": "navruz-festival",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["나브루즈", "나브루즈 축제", "중앙아시아 3월 여행", "우즈베키스탄 축제"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 50,
+  "topic": "중앙아시아 혼자 여행: 치안·택시·숙소 안전 수칙과 동행 구하는 법",
+  "slug": "central-asia-solo-travel",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["중앙아시아 혼자 여행", "우즈베키스탄 치안", "중앙아시아 여자 혼자", "중앙아시아 동행"],
+  "scene": "phone_pay",
   "status": "todo"
  }
 ]

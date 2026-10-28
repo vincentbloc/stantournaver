@@ -714,5 +714,25 @@
    "h": 860,
    "kw": "nukus-aral-sea-tips"
   }
+ ],
+ "uzbekistan-souvenirs": [
+  {
+   "file": "uzbekistan-souvenirs-uzbekistan-souvenirs-facts.jpg",
+   "w": 1200,
+   "h": 862,
+   "kw": "uzbekistan-souvenirs-facts"
+  },
+  {
+   "file": "uzbekistan-souvenirs-uzbekistan-souvenirs-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "uzbekistan-souvenirs-compare"
+  },
+  {
+   "file": "uzbekistan-souvenirs-uzbekistan-souvenirs-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-souvenirs-tips"
+  }
  ]
 }
