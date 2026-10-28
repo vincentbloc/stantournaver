@@ -356,7 +356,8 @@
   "cat": "nature",
   "keywords": ["아랄해 투어", "누쿠스 여행", "사비츠키 미술관", "무이낙"],
   "scene": "canyon",
-  "status": "todo"
+  "status": "done",
+  "post": "nukus-aral-sea"
  },
  {
   "id": 31,

@@ -694,5 +694,25 @@
    "h": 860,
    "kw": "dushanbe-travel-tips"
   }
+ ],
+ "nukus-aral-sea": [
+  {
+   "file": "nukus-aral-sea-nukus-aral-sea-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "nukus-aral-sea-facts"
+  },
+  {
+   "file": "nukus-aral-sea-nukus-aral-sea-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "nukus-aral-sea-steps"
+  },
+  {
+   "file": "nukus-aral-sea-nukus-aral-sea-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "nukus-aral-sea-tips"
+  }
  ]
 }
