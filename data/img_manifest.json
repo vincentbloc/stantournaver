@@ -760,5 +760,31 @@
    "h": 816,
    "kw": "karakol-travel-tips"
   }
+ ],
+ "kolsai-kaindy-lakes": [
+  {
+   "file": "kolsai-kaindy-lakes-kolsai-kaindy-lakes-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "kolsai-kaindy-lakes-facts"
+  },
+  {
+   "file": "kolsai-kaindy-lakes-kolsai-kaindy-lakes-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "kolsai-kaindy-lakes-checklist"
+  },
+  {
+   "file": "kolsai-kaindy-lakes-kolsai-kaindy-lakes-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "kolsai-kaindy-lakes-months"
+  },
+  {
+   "file": "kolsai-kaindy-lakes-kolsai-kaindy-lakes-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "kolsai-kaindy-lakes-tips"
+  }
  ]
 }
