@@ -380,7 +380,8 @@
   "cat": "city",
   "keywords": ["카라콜 여행", "카라콜 가볼만한곳", "제티오구즈", "키르기스스탄 카라콜"],
   "scene": "mountain_lake",
-  "status": "todo"
+  "status": "done",
+  "post": "karakol-travel"
  },
  {
   "id": 33,

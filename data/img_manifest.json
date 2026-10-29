@@ -734,5 +734,31 @@
    "h": 816,
    "kw": "uzbekistan-souvenirs-tips"
   }
+ ],
+ "karakol-travel": [
+  {
+   "file": "karakol-travel-karakol-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "karakol-travel-facts"
+  },
+  {
+   "file": "karakol-travel-karakol-travel-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "karakol-travel-timebar"
+  },
+  {
+   "file": "karakol-travel-karakol-travel-rank.jpg",
+   "w": 1200,
+   "h": 902,
+   "kw": "karakol-travel-rank"
+  },
+  {
+   "file": "karakol-travel-karakol-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "karakol-travel-tips"
+  }
  ]
 }
