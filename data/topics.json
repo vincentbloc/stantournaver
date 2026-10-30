@@ -404,7 +404,8 @@
   "cat": "city",
   "keywords": ["투르키스탄 여행", "야사위 영묘", "카자흐스탄 투르키스탄", "쉼켄트"],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "turkistan-travel"
  },
  {
   "id": 35,

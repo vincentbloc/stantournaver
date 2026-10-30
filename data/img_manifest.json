@@ -786,5 +786,25 @@
    "h": 816,
    "kw": "kolsai-kaindy-lakes-tips"
   }
+ ],
+ "turkistan-travel": [
+  {
+   "file": "turkistan-travel-turkistan-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "turkistan-travel-facts"
+  },
+  {
+   "file": "turkistan-travel-turkistan-travel-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "turkistan-travel-steps"
+  },
+  {
+   "file": "turkistan-travel-turkistan-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "turkistan-travel-tips"
+  }
  ]
 }
