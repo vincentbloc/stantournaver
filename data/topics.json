@@ -416,7 +416,8 @@
   "cat": "city",
   "keywords": ["오시 여행", "술라이만산", "오시 바자르", "키르기스스탄 남부"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "osh-travel"
  },
  {
   "id": 36,

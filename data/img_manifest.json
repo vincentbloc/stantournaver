@@ -806,5 +806,25 @@
    "h": 816,
    "kw": "turkistan-travel-tips"
   }
+ ],
+ "osh-travel": [
+  {
+   "file": "osh-travel-osh-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "osh-travel-facts"
+  },
+  {
+   "file": "osh-travel-osh-travel-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "osh-travel-compare"
+  },
+  {
+   "file": "osh-travel-osh-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "osh-travel-tips"
+  }
  ]
 }
