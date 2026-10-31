@@ -440,7 +440,8 @@
   "cat": "prep",
   "keywords": ["알마티 비슈케크", "알마티 비슈케크 이동", "코르다이 국경", "카자흐스탄 키르기스스탄 이동"],
   "scene": "highland_road",
-  "status": "todo"
+  "status": "done",
+  "post": "almaty-bishkek-transfer"
  },
  {
   "id": 38,

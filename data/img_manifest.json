@@ -846,5 +846,31 @@
    "h": 816,
    "kw": "tashkent-almaty-transfer-tips"
   }
+ ],
+ "almaty-bishkek-transfer": [
+  {
+   "file": "almaty-bishkek-transfer-almaty-bishkek-transfer-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "almaty-bishkek-transfer-facts"
+  },
+  {
+   "file": "almaty-bishkek-transfer-almaty-bishkek-bus-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "almaty-bishkek-bus-timebar"
+  },
+  {
+   "file": "almaty-bishkek-transfer-almaty-bishkek-border-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "almaty-bishkek-border-checklist"
+  },
+  {
+   "file": "almaty-bishkek-transfer-almaty-bishkek-transfer-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "almaty-bishkek-transfer-tips"
+  }
  ]
 }
