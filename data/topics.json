@@ -428,7 +428,8 @@
   "cat": "prep",
   "keywords": ["타슈켄트 알마티", "타슈켄트 알마티 이동", "중앙아시아 국경", "우즈베키스탄 카자흐스탄 이동"],
   "scene": "highland_road",
-  "status": "todo"
+  "status": "done",
+  "post": "tashkent-almaty-transfer"
  },
  {
   "id": 37,

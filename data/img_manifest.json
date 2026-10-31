@@ -826,5 +826,25 @@
    "h": 816,
    "kw": "osh-travel-tips"
   }
+ ],
+ "tashkent-almaty-transfer": [
+  {
+   "file": "tashkent-almaty-transfer-tashkent-almaty-transfer-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tashkent-almaty-transfer-facts"
+  },
+  {
+   "file": "tashkent-almaty-transfer-tashkent-almaty-transfer-rank.jpg",
+   "w": 1200,
+   "h": 902,
+   "kw": "tashkent-almaty-transfer-rank"
+  },
+  {
+   "file": "tashkent-almaty-transfer-tashkent-almaty-transfer-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-almaty-transfer-tips"
+  }
  ]
 }
