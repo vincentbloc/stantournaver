@@ -464,7 +464,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 숙소", "사마르칸트 호텔", "부하라 숙소", "우즈베키스탄 호텔 추천"],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-hotels"
  },
  {
   "id": 40,

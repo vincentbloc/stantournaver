@@ -898,5 +898,25 @@
    "h": 816,
    "kw": "uzbekistan-with-parents-tips"
   }
+ ],
+ "uzbekistan-hotels": [
+  {
+   "file": "uzbekistan-hotels-uzbekistan-hotels-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-hotels-facts"
+  },
+  {
+   "file": "uzbekistan-hotels-uzbekistan-hotels-compare.jpg",
+   "w": 1200,
+   "h": 836,
+   "kw": "uzbekistan-hotels-compare"
+  },
+  {
+   "file": "uzbekistan-hotels-uzbekistan-hotels-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "uzbekistan-hotels-tips"
+  }
  ]
 }
