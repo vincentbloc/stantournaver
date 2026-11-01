@@ -872,5 +872,31 @@
    "h": 816,
    "kw": "almaty-bishkek-transfer-tips"
   }
+ ],
+ "uzbekistan-with-parents": [
+  {
+   "file": "uzbekistan-with-parents-uzbekistan-with-parents-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-with-parents-facts"
+  },
+  {
+   "file": "uzbekistan-with-parents-uzbekistan-with-parents-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "uzbekistan-with-parents-steps"
+  },
+  {
+   "file": "uzbekistan-with-parents-uzbekistan-with-parents-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "uzbekistan-with-parents-months"
+  },
+  {
+   "file": "uzbekistan-with-parents-uzbekistan-with-parents-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-with-parents-tips"
+  }
  ]
 }
