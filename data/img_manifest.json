@@ -918,5 +918,25 @@
    "h": 860,
    "kw": "uzbekistan-hotels-tips"
   }
+ ],
+ "central-asia-packing-list": [
+  {
+   "file": "central-asia-packing-list-central-asia-packing-list-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-packing-list-facts"
+  },
+  {
+   "file": "central-asia-packing-list-central-asia-packing-list-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "central-asia-packing-list-rank"
+  },
+  {
+   "file": "central-asia-packing-list-central-asia-packing-list-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-packing-list-tips"
+  }
  ]
 }

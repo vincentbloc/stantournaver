@@ -476,7 +476,8 @@
   "cat": "prep",
   "keywords": ["중앙아시아 여행 준비물", "우즈베키스탄 준비물", "중앙아시아 옷차림", "카자흐스탄 여행 준비물"],
   "scene": "suitcase",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-packing-list"
  },
  {
   "id": 41,
