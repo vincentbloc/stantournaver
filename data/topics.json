@@ -488,7 +488,8 @@
   "cat": "nature",
   "keywords": ["침간산", "차르박 호수", "타슈켄트 근교", "아미르소이"],
   "scene": "mountain_lake",
-  "status": "todo"
+  "status": "done",
+  "post": "chimgan-charvak"
  },
  {
   "id": 42,
@@ -587,6 +588,116 @@
   "cat": "prep",
   "keywords": ["중앙아시아 혼자 여행", "우즈베키스탄 치안", "중앙아시아 여자 혼자", "중앙아시아 동행"],
   "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 51,
+  "topic": "타슈켄트 지하철 이용법: 노선·교통카드·QR 결제와 아름다운 역 구경",
+  "slug": "tashkent-metro",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["타슈켄트 지하철", "타슈켄트 메트로", "타슈켄트 교통카드", "타슈켄트 대중교통"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 52,
+  "topic": "알라아르차 국립공원 당일치기: 비슈케크 근교 트레킹 코스와 가는 법",
+  "slug": "ala-archa",
+  "city": "비슈케크",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": ["알라아르차", "알라아르차 국립공원", "비슈케크 근교", "키르기스스탄 트레킹"],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 53,
+  "topic": "알마티 콕토베·메데우 가는 법: 케이블카·버스 노선과 야경 시간",
+  "slug": "kok-tobe-medeu",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "spot",
+  "keywords": ["콕토베", "메데우", "알마티 케이블카", "알마티 야경"],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 54,
+  "topic": "타슈켄트 공항 입국 가이드: 입국 심사·환전·유심·시내 이동 순서",
+  "slug": "tashkent-airport-guide",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["타슈켄트 공항", "타슈켄트 입국", "타슈켄트 공항 시내 이동", "타슈켄트 공항 택시"],
+  "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 55,
+  "topic": "타슈켄트 플롭 맛집: 플롭 센터 이용법과 점심에 가야 하는 이유",
+  "slug": "tashkent-plov",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["타슈켄트 맛집", "플롭", "타슈켄트 플롭 센터", "우즈베키스탄 음식"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 56,
+  "topic": "타슈켄트 초르수 바자르 구경법: 구역별 쇼핑 품목과 흥정 요령",
+  "slug": "chorsu-bazaar",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["초르수 바자르", "타슈켄트 시장", "타슈켄트 쇼핑", "타슈켄트 가볼만한곳"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 57,
+  "topic": "우즈베키스탄 야간열차·일반열차 좌석 등급: 샤르크·침대칸 고르는 법",
+  "slug": "uzbekistan-night-train",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 야간열차", "샤르크 열차", "우즈베키스탄 기차 좌석", "우즈베키스탄 침대열차"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 58,
+  "topic": "카자흐스탄 여행 경비: 알마티 4박5일 항공·숙박·식비 예산",
+  "slug": "kazakhstan-travel-cost",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": ["카자흐스탄 여행 경비", "알마티 여행 경비", "카자흐스탄 물가", "알마티 물가"],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 59,
+  "topic": "자민 국립공원: 우즈베키스탄 산악 휴양지 가는 법과 케이블카",
+  "slug": "zaamin-national-park",
+  "city": "자민",
+  "region": "uz",
+  "cat": "nature",
+  "keywords": ["자민 국립공원", "우즈베키스탄 국립공원", "자민 케이블카", "우즈베키스탄 산"],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 60,
+  "topic": "타슈켄트 야경 명소: 타슈켄트 시티·TV 타워·매직 시티 동선",
+  "slug": "tashkent-night-view",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["타슈켄트 야경", "타슈켄트 시티", "매직 시티", "타슈켄트 TV 타워"],
+  "scene": "city_night",
   "status": "todo"
  }
 ]
