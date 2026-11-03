@@ -984,5 +984,25 @@
    "h": 816,
    "kw": "uzbekistan-registration-tips"
   }
+ ],
+ "khiva-bukhara-transfer": [
+  {
+   "file": "khiva-bukhara-transfer-khiva-bukhara-transfer-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "khiva-bukhara-transfer-facts"
+  },
+  {
+   "file": "khiva-bukhara-transfer-khiva-bukhara-transfer-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "khiva-bukhara-transfer-compare"
+  },
+  {
+   "file": "khiva-bukhara-transfer-khiva-bukhara-transfer-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "khiva-bukhara-transfer-tips"
+  }
  ]
 }

@@ -512,7 +512,8 @@
   "cat": "prep",
   "keywords": ["히바 부하라 이동", "히바 부하라 기차", "히바 가는 법", "우즈베키스탄 도시 이동"],
   "scene": "train",
-  "status": "todo"
+  "status": "done",
+  "post": "khiva-bukhara-transfer"
  },
  {
   "id": 44,
