@@ -964,5 +964,25 @@
    "h": 860,
    "kw": "chimgan-charvak-tips"
   }
+ ],
+ "uzbekistan-registration": [
+  {
+   "file": "uzbekistan-registration-uzbekistan-registration-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-registration-facts"
+  },
+  {
+   "file": "uzbekistan-registration-uzbekistan-registration-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "uzbekistan-registration-steps"
+  },
+  {
+   "file": "uzbekistan-registration-uzbekistan-registration-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-registration-tips"
+  }
  ]
 }

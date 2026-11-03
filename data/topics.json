@@ -500,7 +500,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 거주등록", "우즈베키스탄 레지스트라치야", "우즈베키스탄 입국 주의사항", "우즈베키스탄 숙박 등록"],
   "scene": "passport",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-registration"
  },
  {
   "id": 43,
