@@ -1004,5 +1004,25 @@
    "h": 816,
    "kw": "khiva-bukhara-transfer-tips"
   }
+ ],
+ "uzbekistan-domestic-flights": [
+  {
+   "file": "uzbekistan-domestic-flights-uzbekistan-domestic-flights-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-domestic-flights-facts"
+  },
+  {
+   "file": "uzbekistan-domestic-flights-uzbekistan-domestic-flights-rank.jpg",
+   "w": 1200,
+   "h": 902,
+   "kw": "uzbekistan-domestic-flights-rank"
+  },
+  {
+   "file": "uzbekistan-domestic-flights-uzbekistan-domestic-flights-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "uzbekistan-domestic-flights-tips"
+  }
  ]
 }

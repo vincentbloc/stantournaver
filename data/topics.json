@@ -524,7 +524,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 국내선", "우즈베키스탄 항공", "타슈켄트 우르겐치 항공", "우즈베키스탄 비행기 예약"],
   "scene": "suitcase",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-domestic-flights"
  },
  {
   "id": 45,
