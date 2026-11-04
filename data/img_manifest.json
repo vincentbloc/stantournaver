@@ -1024,5 +1024,31 @@
    "h": 860,
    "kw": "uzbekistan-domestic-flights-tips"
   }
+ ],
+ "altyn-emel": [
+  {
+   "file": "altyn-emel-altyn-emel-glance.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "altyn-emel-glance"
+  },
+  {
+   "file": "altyn-emel-altyn-emel-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "altyn-emel-timebar"
+  },
+  {
+   "file": "altyn-emel-altyn-emel-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "altyn-emel-months"
+  },
+  {
+   "file": "altyn-emel-altyn-emel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "altyn-emel-tips"
+  }
  ]
 }
