@@ -1076,5 +1076,25 @@
    "h": 816,
    "kw": "kyrgyzstan-horse-tips"
   }
+ ],
+ "iskanderkul-lake": [
+  {
+   "file": "iskanderkul-lake-iskanderkul-lake-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "iskanderkul-lake-facts"
+  },
+  {
+   "file": "iskanderkul-lake-iskanderkul-lake-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "iskanderkul-lake-compare"
+  },
+  {
+   "file": "iskanderkul-lake-iskanderkul-lake-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "iskanderkul-lake-tips"
+  }
  ]
 }
