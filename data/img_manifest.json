@@ -1050,5 +1050,31 @@
    "h": 816,
    "kw": "altyn-emel-tips"
   }
+ ],
+ "kyrgyzstan-horse-trek": [
+  {
+   "file": "kyrgyzstan-horse-trek-kyrgyzstan-horse-glance.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "kyrgyzstan-horse-glance"
+  },
+  {
+   "file": "kyrgyzstan-horse-trek-kyrgyzstan-horse-booking-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "kyrgyzstan-horse-booking-steps"
+  },
+  {
+   "file": "kyrgyzstan-horse-trek-kyrgyzstan-horse-checklist.jpg",
+   "w": 1200,
+   "h": 712,
+   "kw": "kyrgyzstan-horse-checklist"
+  },
+  {
+   "file": "kyrgyzstan-horse-trek-kyrgyzstan-horse-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "kyrgyzstan-horse-tips"
+  }
  ]
 }

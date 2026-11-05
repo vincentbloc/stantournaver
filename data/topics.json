@@ -548,7 +548,8 @@
   "cat": "nature",
   "keywords": ["키르기스스탄 승마", "키르기스스탄 말 트레킹", "키르기스스탄 투어", "유르트 승마 체험"],
   "scene": "yurt_steppe",
-  "status": "todo"
+  "status": "done",
+  "post": "kyrgyzstan-horse-trek"
  },
  {
   "id": 47,
