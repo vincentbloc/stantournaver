@@ -1116,5 +1116,25 @@
    "h": 860,
    "kw": "darvaza-gas-crater-tips"
   }
+ ],
+ "navruz-festival": [
+  {
+   "file": "navruz-festival-navruz-festival-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "navruz-festival-facts"
+  },
+  {
+   "file": "navruz-festival-navruz-festival-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "navruz-festival-timebar"
+  },
+  {
+   "file": "navruz-festival-navruz-festival-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "navruz-festival-tips"
+  }
  ]
 }

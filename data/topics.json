@@ -584,7 +584,8 @@
   "cat": "prep",
   "keywords": ["나브루즈", "나브루즈 축제", "중앙아시아 3월 여행", "우즈베키스탄 축제"],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "navruz-festival"
  },
  {
   "id": 50,
