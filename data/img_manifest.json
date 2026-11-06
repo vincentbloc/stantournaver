@@ -1096,5 +1096,25 @@
    "h": 905,
    "kw": "iskanderkul-lake-tips"
   }
+ ],
+ "darvaza-gas-crater": [
+  {
+   "file": "darvaza-gas-crater-darvaza-gas-crater-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "darvaza-gas-crater-facts"
+  },
+  {
+   "file": "darvaza-gas-crater-darvaza-gas-crater-route-rank.jpg",
+   "w": 1200,
+   "h": 770,
+   "kw": "darvaza-gas-crater-route-rank"
+  },
+  {
+   "file": "darvaza-gas-crater-darvaza-gas-crater-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "darvaza-gas-crater-tips"
+  }
  ]
 }
