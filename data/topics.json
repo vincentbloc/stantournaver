@@ -608,7 +608,7 @@
   "cat": "prep",
   "keywords": ["타슈켄트 지하철", "타슈켄트 메트로", "타슈켄트 교통카드", "타슈켄트 대중교통"],
   "scene": "train",
-  "status": "todo"
+  "status": "skip"
  },
  {
   "id": 52,
@@ -619,7 +619,7 @@
   "cat": "nature",
   "keywords": ["알라아르차", "알라아르차 국립공원", "비슈케크 근교", "키르기스스탄 트레킹"],
   "scene": "snow_mountain",
-  "status": "todo"
+  "status": "skip"
  },
  {
   "id": 53,
@@ -630,7 +630,7 @@
   "cat": "spot",
   "keywords": ["콕토베", "메데우", "알마티 케이블카", "알마티 야경"],
   "scene": "city_night",
-  "status": "todo"
+  "status": "skip"
  },
  {
   "id": 54,
@@ -641,7 +641,8 @@
   "cat": "prep",
   "keywords": ["타슈켄트 공항", "타슈켄트 입국", "타슈켄트 공항 시내 이동", "타슈켄트 공항 택시"],
   "scene": "passport",
-  "status": "todo"
+  "status": "done",
+  "post": "tashkent-airport-guide"
  },
  {
   "id": 55,
@@ -707,6 +708,116 @@
   "cat": "city",
   "keywords": ["타슈켄트 야경", "타슈켄트 시티", "매직 시티", "타슈켄트 TV 타워"],
   "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 61,
+  "topic": "알마티 공항 입국 가이드: 입국 심사·환전·유심·시내 가는 법과 새벽 도착 요령",
+  "slug": "almaty-airport-guide",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": ["알마티 공항", "알마티 입국", "알마티 공항 시내 이동", "카자흐스탄 입국"],
+  "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 62,
+  "topic": "알마티 대중교통 이용법: 오나이 교통카드·버스·지하철과 QR 결제",
+  "slug": "almaty-public-transport",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": ["알마티 대중교통", "알마티 버스", "알마티 지하철", "오나이 카드"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 63,
+  "topic": "키르기스스탄 여행 경비: 비슈케크·이식쿨 5박6일 항공·숙박·투어 예산",
+  "slug": "kyrgyzstan-travel-cost",
+  "city": "키르기스스탄",
+  "region": "kg",
+  "cat": "prep",
+  "keywords": ["키르기스스탄 여행 경비", "키르기스스탄 물가", "비슈케크 물가", "키르기스스탄 여행 예산"],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 64,
+  "topic": "레기스탄 광장 야간 조명 쇼: 사마르칸트 저녁 일정과 사진 잘 나오는 자리",
+  "slug": "registan-night-show",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": ["레기스탄 광장", "레기스탄 야경", "사마르칸트 야경", "사마르칸트 저녁"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 65,
+  "topic": "우즈베키스탄 신혼여행: 7박8일 일정·숙소 등급·계절 고르는 법",
+  "slug": "uzbekistan-honeymoon",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "city",
+  "keywords": ["우즈베키스탄 신혼여행", "중앙아시아 신혼여행", "우즈베키스탄 커플 여행", "사마르칸트 호텔"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 66,
+  "topic": "아이와 중앙아시아 여행: 나이별 추천 나라·이동 시간·먹거리 준비",
+  "slug": "central-asia-with-kids",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": ["아이와 중앙아시아 여행", "우즈베키스탄 아이와", "알마티 아이와", "중앙아시아 가족여행"],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 67,
+  "topic": "알마티 그린 바자르 구경법: 말린 과일·꿀·전통 간식 사는 법과 흥정 요령",
+  "slug": "almaty-green-bazaar",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "city",
+  "keywords": ["그린 바자르", "알마티 시장", "알마티 쇼핑", "알마티 기념품"],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 68,
+  "topic": "카자흐스탄 기차 예매: 알마티-아스타나·투르키스탄 노선과 탈고 좌석 고르는 법",
+  "slug": "kazakhstan-train-booking",
+  "city": "카자흐스탄",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": ["카자흐스탄 기차", "알마티 아스타나 기차", "카자흐스탄 기차 예매", "탈고 열차"],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 69,
+  "topic": "우즈베키스탄 여름 여행: 6~8월 더위 피하는 시간표와 준비물",
+  "slug": "uzbekistan-summer-travel",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 여름", "우즈베키스탄 7월 날씨", "우즈베키스탄 8월 여행", "사마르칸트 더위"],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 70,
+  "topic": "우즈베키스탄 패키지 vs 자유여행: 비용·일정·난이도 비교와 고르는 기준",
+  "slug": "uzbekistan-package-vs-free",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": ["우즈베키스탄 패키지", "우즈베키스탄 자유여행", "우즈베키스탄 여행사", "우즈베키스탄 투어"],
+  "scene": "passport",
   "status": "todo"
  }
 ]

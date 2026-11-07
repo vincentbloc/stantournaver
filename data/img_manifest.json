@@ -1162,5 +1162,25 @@
    "h": 816,
    "kw": "central-asia-solo-travel-tips"
   }
+ ],
+ "tashkent-airport-guide": [
+  {
+   "file": "tashkent-airport-guide-tashkent-airport-guide-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tashkent-airport-guide-facts"
+  },
+  {
+   "file": "tashkent-airport-guide-tashkent-airport-transfer-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "tashkent-airport-transfer-compare"
+  },
+  {
+   "file": "tashkent-airport-guide-tashkent-airport-guide-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-airport-guide-tips"
+  }
  ]
 }
