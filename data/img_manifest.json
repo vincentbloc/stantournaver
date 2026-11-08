@@ -1182,5 +1182,25 @@
    "h": 816,
    "kw": "tashkent-airport-guide-tips"
   }
+ ],
+ "tashkent-plov": [
+  {
+   "file": "tashkent-plov-tashkent-plov-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tashkent-plov-facts"
+  },
+  {
+   "file": "tashkent-plov-tashkent-plov-menu-rank.jpg",
+   "w": 1200,
+   "h": 770,
+   "kw": "tashkent-plov-menu-rank"
+  },
+  {
+   "file": "tashkent-plov-tashkent-plov-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-plov-tips"
+  }
  ]
 }

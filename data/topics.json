@@ -653,7 +653,8 @@
   "cat": "city",
   "keywords": ["타슈켄트 맛집", "플롭", "타슈켄트 플롭 센터", "우즈베키스탄 음식"],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "tashkent-plov"
  },
  {
   "id": 56,
