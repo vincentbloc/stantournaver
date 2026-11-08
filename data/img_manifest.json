@@ -1202,5 +1202,25 @@
    "h": 816,
    "kw": "tashkent-plov-tips"
   }
+ ],
+ "chorsu-bazaar": [
+  {
+   "file": "chorsu-bazaar-chorsu-bazaar-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "chorsu-bazaar-facts"
+  },
+  {
+   "file": "chorsu-bazaar-chorsu-bazaar-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "chorsu-bazaar-timebar"
+  },
+  {
+   "file": "chorsu-bazaar-chorsu-bazaar-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "chorsu-bazaar-tips"
+  }
  ]
 }
