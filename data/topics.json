@@ -677,7 +677,8 @@
   "cat": "prep",
   "keywords": ["우즈베키스탄 야간열차", "샤르크 열차", "우즈베키스탄 기차 좌석", "우즈베키스탄 침대열차"],
   "scene": "train",
-  "status": "todo"
+  "status": "done",
+  "post": "uzbekistan-night-train"
  },
  {
   "id": 58,

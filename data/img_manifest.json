@@ -1222,5 +1222,31 @@
    "h": 816,
    "kw": "chorsu-bazaar-tips"
   }
+ ],
+ "uzbekistan-night-train": [
+  {
+   "file": "uzbekistan-night-train-uzbekistan-night-train-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-night-train-facts"
+  },
+  {
+   "file": "uzbekistan-night-train-uzbekistan-night-train-berth-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "uzbekistan-night-train-berth-steps"
+  },
+  {
+   "file": "uzbekistan-night-train-uzbekistan-night-train-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "uzbekistan-night-train-checklist"
+  },
+  {
+   "file": "uzbekistan-night-train-uzbekistan-night-train-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-night-train-tips"
+  }
  ]
 }
