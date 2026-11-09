@@ -45,6 +45,27 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Claude가 글 작성
+        id: claude
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            저장소 루트의 AUTOMATION.md를 먼저 끝까지 읽고, 그 지침을 정확히 따라 새 글 ${{ github.event.inputs.count || '1' }}편을 작성하세요. 양보다 질이 중요합니다. 지침의 '품질 기준'과 '셀프 검토'를 빠짐없이 지키세요.
+            오늘 날짜는 `date +%F` 결과(한국 시간)를 사용하세요.
+            빌드(python3 src/build_site.py)와 검사(python3 src/validate.py)에서 오류가 0개가 될 때까지 고치세요.
+            git commit/push는 하지 마세요. 워크플로가 검사 후 자동으로 올립니다.
+          claude_args: |
+            --model opus
+            --max-turns 120
+            --allowedTools "Bash(python3:*),Bash(ls:*),Bash(date:*),Bash(cat:*),Bash(head:*),Bash(grep:*),Read,Write,Edit,Glob,Grep,WebSearch,WebFetch"
+
+      - name: 잠시 기다렸다 재시도 (GitHub 일시 오류 대비)
+        if: steps.claude.outcome == 'failure'
+        run: sleep 90
+
+      - name: Claude가 글 작성 (재시도)
+        if: steps.claude.outcome == 'failure'
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
