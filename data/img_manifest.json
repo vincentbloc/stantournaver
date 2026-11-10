@@ -1268,5 +1268,31 @@
    "h": 860,
    "kw": "kazakhstan-travel-cost-tips"
   }
+ ],
+ "zaamin-national-park": [
+  {
+   "file": "zaamin-national-park-zaamin-national-park-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "zaamin-national-park-facts"
+  },
+  {
+   "file": "zaamin-national-park-zaamin-national-park-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "zaamin-national-park-rank"
+  },
+  {
+   "file": "zaamin-national-park-zaamin-national-park-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "zaamin-national-park-months"
+  },
+  {
+   "file": "zaamin-national-park-zaamin-national-park-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "zaamin-national-park-tips"
+  }
  ]
 }

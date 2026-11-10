@@ -701,7 +701,8 @@
   "cat": "nature",
   "keywords": ["자민 국립공원", "우즈베키스탄 국립공원", "자민 케이블카", "우즈베키스탄 산"],
   "scene": "mountain_lake",
-  "status": "todo"
+  "status": "done",
+  "post": "zaamin-national-park"
  },
  {
   "id": 60,
