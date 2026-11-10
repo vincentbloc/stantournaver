@@ -713,7 +713,8 @@
   "cat": "city",
   "keywords": ["타슈켄트 야경", "타슈켄트 시티", "매직 시티", "타슈켄트 TV 타워"],
   "scene": "city_night",
-  "status": "todo"
+  "status": "done",
+  "post": "tashkent-night-view"
  },
  {
   "id": 61,

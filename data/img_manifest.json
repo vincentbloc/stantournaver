@@ -1294,5 +1294,25 @@
    "h": 860,
    "kw": "zaamin-national-park-tips"
   }
+ ],
+ "tashkent-night-view": [
+  {
+   "file": "tashkent-night-view-tashkent-night-view-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "tashkent-night-view-facts"
+  },
+  {
+   "file": "tashkent-night-view-tashkent-night-view-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "tashkent-night-view-timebar"
+  },
+  {
+   "file": "tashkent-night-view-tashkent-night-view-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-night-view-tips"
+  }
  ]
 }
