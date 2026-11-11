@@ -115,3 +115,16 @@ jobs:
           done
           echo "::error::새 글이 사이트에 안 보입니다. Cloudflare → Workers & Pages → stantournaver → 배포 기록에서 실패한 빌드의 Retry를 눌러 주세요. $URL"
           exit 1
+
+      - name: 검색엔진에 새 글 알리기 (IndexNow → 네이버·빙)
+        continue-on-error: true
+        run: |
+          SLUG=$(cat /tmp/slug.txt 2>/dev/null)
+          if [ -z "$SLUG" ]; then echo "새 글 없음 - 생략"; exit 0; fi
+          H=stantournaver.com
+          KEY=921ff52c1a18cf9a4d1fc9fe0671dd1d
+          BODY="{\"host\":\"$H\",\"key\":\"$KEY\",\"keyLocation\":\"https://$H/$KEY.txt\",\"urlList\":[\"https://$H/travel/$SLUG/\",\"https://$H/\"]}"
+          for EP in https://searchadvisor.naver.com/indexnow https://api.indexnow.org/indexnow; do
+            CODE=$(curl -s -o /tmp/ix.txt -w "%{http_code}" -X POST "$EP" -H "Content-Type: application/json; charset=utf-8" -d "$BODY")
+            echo "$EP → $CODE $(head -c 300 /tmp/ix.txt)"
+          done
