@@ -1314,5 +1314,31 @@
    "h": 816,
    "kw": "tashkent-night-view-tips"
   }
+ ],
+ "almaty-airport-guide": [
+  {
+   "file": "almaty-airport-guide-almaty-airport-guide-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "almaty-airport-guide-facts"
+  },
+  {
+   "file": "almaty-airport-guide-almaty-airport-arrival-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "almaty-airport-arrival-steps"
+  },
+  {
+   "file": "almaty-airport-guide-almaty-airport-departure-checklist.jpg",
+   "w": 1200,
+   "h": 616,
+   "kw": "almaty-airport-departure-checklist"
+  },
+  {
+   "file": "almaty-airport-guide-almaty-airport-guide-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "almaty-airport-guide-tips"
+  }
  ]
 }

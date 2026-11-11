@@ -6,7 +6,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "city",
-  "keywords": ["우즈베키스탄 여행 코스", "우즈베키스탄 자유여행", "우즈베키스탄 5박6일", "타슈켄트 사마르칸트"],
+  "keywords": [
+   "우즈베키스탄 여행 코스",
+   "우즈베키스탄 자유여행",
+   "우즈베키스탄 5박6일",
+   "타슈켄트 사마르칸트"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "uzbekistan-5n6d-course"
@@ -18,7 +23,12 @@
   "city": "사마르칸트",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["사마르칸트 여행", "레기스탄", "사마르칸트 가볼만한곳", "우즈베키스탄 사마르칸트"],
+  "keywords": [
+   "사마르칸트 여행",
+   "레기스탄",
+   "사마르칸트 가볼만한곳",
+   "우즈베키스탄 사마르칸트"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "samarkand-travel"
@@ -30,7 +40,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["아프로시욥", "우즈베키스탄 기차", "타슈켄트 사마르칸트 기차", "우즈베키스탄 고속철 예매"],
+  "keywords": [
+   "아프로시욥",
+   "우즈베키스탄 기차",
+   "타슈켄트 사마르칸트 기차",
+   "우즈베키스탄 고속철 예매"
+  ],
   "scene": "train",
   "status": "done",
   "post": "afrosiyob-train-booking"
@@ -42,7 +57,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "city",
-  "keywords": ["알마티 여행", "알마티 여행 코스", "카자흐스탄 알마티", "알마티 3박4일"],
+  "keywords": [
+   "알마티 여행",
+   "알마티 여행 코스",
+   "카자흐스탄 알마티",
+   "알마티 3박4일"
+  ],
   "scene": "snow_mountain",
   "status": "done",
   "post": "almaty-3n4d-course"
@@ -54,7 +74,13 @@
   "city": "알마티 근교",
   "region": "kz",
   "cat": "nature",
-  "keywords": ["차른 캐니언", "차린 캐니언", "알마티 근교 투어", "콜사이 호수", "카인디 호수"],
+  "keywords": [
+   "차른 캐니언",
+   "차린 캐니언",
+   "알마티 근교 투어",
+   "콜사이 호수",
+   "카인디 호수"
+  ],
   "scene": "canyon",
   "status": "done",
   "post": "charyn-canyon-tour"
@@ -66,7 +92,12 @@
   "city": "비슈케크",
   "region": "kg",
   "cat": "city",
-  "keywords": ["비슈케크 여행", "키르기스스탄 여행", "알라아르차", "비슈케크 가볼만한곳"],
+  "keywords": [
+   "비슈케크 여행",
+   "키르기스스탄 여행",
+   "알라아르차",
+   "비슈케크 가볼만한곳"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "bishkek-travel"
@@ -78,7 +109,12 @@
   "city": "이식쿨",
   "region": "kg",
   "cat": "nature",
-  "keywords": ["이식쿨 호수", "키르기스스탄 이식쿨", "촐폰아타", "카라콜 여행"],
+  "keywords": [
+   "이식쿨 호수",
+   "키르기스스탄 이식쿨",
+   "촐폰아타",
+   "카라콜 여행"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "issyk-kul-travel"
@@ -90,7 +126,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 환전", "카자흐스탄 환전", "중앙아시아 환전", "숨 환전"],
+  "keywords": [
+   "우즈베키스탄 환전",
+   "카자흐스탄 환전",
+   "중앙아시아 환전",
+   "숨 환전"
+  ],
   "scene": "phone_pay",
   "status": "done",
   "post": "central-asia-money-guide"
@@ -102,7 +143,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["얀덱스 고", "얀덱스 택시", "우즈베키스탄 택시", "알마티 택시"],
+  "keywords": [
+   "얀덱스 고",
+   "얀덱스 택시",
+   "우즈베키스탄 택시",
+   "알마티 택시"
+  ],
   "scene": "taxi",
   "status": "done",
   "post": "yandex-go-guide"
@@ -114,7 +160,12 @@
   "city": "부하라",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["부하라 여행", "부하라 가볼만한곳", "우즈베키스탄 부하라", "실크로드 여행"],
+  "keywords": [
+   "부하라 여행",
+   "부하라 가볼만한곳",
+   "우즈베키스탄 부하라",
+   "실크로드 여행"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "bukhara-travel"
@@ -126,7 +177,12 @@
   "city": "히바",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["히바 여행", "이찬칼라", "우즈베키스탄 히바", "히바 가는법"],
+  "keywords": [
+   "히바 여행",
+   "이찬칼라",
+   "우즈베키스탄 히바",
+   "히바 가는법"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "khiva-travel"
@@ -138,7 +194,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 유심", "카자흐스탄 유심", "중앙아시아 이심", "해외 유심"],
+  "keywords": [
+   "우즈베키스탄 유심",
+   "카자흐스탄 유심",
+   "중앙아시아 이심",
+   "해외 유심"
+  ],
   "scene": "phone_pay",
   "status": "done",
   "post": "central-asia-sim-guide"
@@ -150,7 +211,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "spot",
-  "keywords": ["침불락", "알마티 스키장", "침불락 케이블카", "카자흐스탄 스키"],
+  "keywords": [
+   "침불락",
+   "알마티 스키장",
+   "침불락 케이블카",
+   "카자흐스탄 스키"
+  ],
   "scene": "snow_mountain",
   "status": "done",
   "post": "shymbulak-guide"
@@ -162,7 +228,12 @@
   "city": "송쿨",
   "region": "kg",
   "cat": "nature",
-  "keywords": ["송쿨 호수", "유르트 체험", "키르기스스탄 송쿨", "유목민 체험"],
+  "keywords": [
+   "송쿨 호수",
+   "유르트 체험",
+   "키르기스스탄 송쿨",
+   "유목민 체험"
+  ],
   "scene": "yurt_steppe",
   "status": "done",
   "post": "song-kul-yurt"
@@ -174,7 +245,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "city",
-  "keywords": ["타슈켄트 여행", "타슈켄트 가볼만한곳", "초르수 바자르", "타슈켄트 지하철"],
+  "keywords": [
+   "타슈켄트 여행",
+   "타슈켄트 가볼만한곳",
+   "초르수 바자르",
+   "타슈켄트 지하철"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "tashkent-travel"
@@ -186,7 +262,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 음식", "플로프", "라그만", "우즈베키스탄 음식"],
+  "keywords": [
+   "중앙아시아 음식",
+   "플로프",
+   "라그만",
+   "우즈베키스탄 음식"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "central-asia-food"
@@ -198,7 +279,12 @@
   "city": "아스타나",
   "region": "kz",
   "cat": "city",
-  "keywords": ["아스타나 여행", "카자흐스탄 수도", "아스타나 가볼만한곳", "누르술탄"],
+  "keywords": [
+   "아스타나 여행",
+   "카자흐스탄 수도",
+   "아스타나 가볼만한곳",
+   "누르술탄"
+  ],
   "scene": "city_night",
   "status": "done",
   "post": "astana-travel"
@@ -210,7 +296,12 @@
   "city": "타지키스탄",
   "region": "other",
   "cat": "nature",
-  "keywords": ["파미르 하이웨이", "타지키스탄 여행", "파미르 고원", "오지 여행"],
+  "keywords": [
+   "파미르 하이웨이",
+   "타지키스탄 여행",
+   "파미르 고원",
+   "오지 여행"
+  ],
   "scene": "highland_road",
   "status": "done",
   "post": "pamir-highway-guide"
@@ -222,7 +313,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 겨울 여행", "알마티 겨울", "겨울 해외여행", "침불락 스키"],
+  "keywords": [
+   "중앙아시아 겨울 여행",
+   "알마티 겨울",
+   "겨울 해외여행",
+   "침불락 스키"
+  ],
   "scene": "ice_castle",
   "status": "done",
   "post": "central-asia-winter"
@@ -234,7 +330,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 카자흐스탄", "중앙아시아 여행지 추천", "첫 중앙아시아", "중앙아시아 비교"],
+  "keywords": [
+   "우즈베키스탄 카자흐스탄",
+   "중앙아시아 여행지 추천",
+   "첫 중앙아시아",
+   "중앙아시아 비교"
+  ],
   "scene": "suitcase",
   "status": "done",
   "post": "uzbekistan-vs-kazakhstan"
@@ -246,7 +347,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 직항", "타슈켄트 직항", "알마티 직항", "비슈케크 직항"],
+  "keywords": [
+   "중앙아시아 직항",
+   "타슈켄트 직항",
+   "알마티 직항",
+   "비슈케크 직항"
+  ],
   "scene": "suitcase",
   "status": "done",
   "post": "central-asia-direct-flights"
@@ -258,7 +364,12 @@
   "city": "우즈베키스탄",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 여행 경비", "우즈베키스탄 물가", "우즈베키스탄 자유여행 비용", "우즈베키스탄 여행 예산"],
+  "keywords": [
+   "우즈베키스탄 여행 경비",
+   "우즈베키스탄 물가",
+   "우즈베키스탄 자유여행 비용",
+   "우즈베키스탄 여행 예산"
+  ],
   "scene": "phone_pay",
   "status": "done",
   "post": "uzbekistan-travel-cost"
@@ -270,7 +381,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "city",
-  "keywords": ["중앙아시아 3국 여행", "중앙아시아 일정", "중앙아시아 2주", "중앙아시아 여행 코스"],
+  "keywords": [
+   "중앙아시아 3국 여행",
+   "중앙아시아 일정",
+   "중앙아시아 2주",
+   "중앙아시아 여행 코스"
+  ],
   "scene": "highland_road",
   "status": "done",
   "post": "central-asia-3-countries-course"
@@ -282,7 +398,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 여행 시기", "우즈베키스탄 날씨", "카자흐스탄 날씨", "키르기스스탄 여행 시기"],
+  "keywords": [
+   "중앙아시아 여행 시기",
+   "우즈베키스탄 날씨",
+   "카자흐스탄 날씨",
+   "키르기스스탄 여행 시기"
+  ],
   "scene": "suitcase",
   "status": "done",
   "post": "central-asia-best-season"
@@ -294,7 +415,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "nature",
-  "keywords": ["빅 알마티 호수", "알마티 호수", "알마티 근교", "카자흐스탄 호수"],
+  "keywords": [
+   "빅 알마티 호수",
+   "알마티 호수",
+   "알마티 근교",
+   "카자흐스탄 호수"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "big-almaty-lake"
@@ -306,7 +432,12 @@
   "city": "카라콜",
   "region": "kg",
   "cat": "nature",
-  "keywords": ["알틴아라샨", "카라콜 트레킹", "키르기스스탄 트레킹", "카라콜 여행"],
+  "keywords": [
+   "알틴아라샨",
+   "카라콜 트레킹",
+   "키르기스스탄 트레킹",
+   "카라콜 여행"
+  ],
   "scene": "snow_mountain",
   "status": "done",
   "post": "altyn-arashan-trek"
@@ -318,7 +449,12 @@
   "city": "샤흐리삽즈",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["샤흐리삽즈", "사마르칸트 근교", "아크사라이 궁전", "우즈베키스탄 당일치기"],
+  "keywords": [
+   "샤흐리삽즈",
+   "사마르칸트 근교",
+   "아크사라이 궁전",
+   "우즈베키스탄 당일치기"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "shahrisabz-day-trip"
@@ -330,7 +466,12 @@
   "city": "페르가나",
   "region": "uz",
   "cat": "city",
-  "keywords": ["페르가나 계곡", "리쉬탄 도자기", "마르길란 실크", "우즈베키스탄 페르가나"],
+  "keywords": [
+   "페르가나 계곡",
+   "리쉬탄 도자기",
+   "마르길란 실크",
+   "우즈베키스탄 페르가나"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "fergana-valley"
@@ -342,7 +483,12 @@
   "city": "두샨베",
   "region": "other",
   "cat": "city",
-  "keywords": ["두샨베 여행", "타지키스탄 여행", "두샨베 가볼만한곳", "타지키스탄 무비자"],
+  "keywords": [
+   "두샨베 여행",
+   "타지키스탄 여행",
+   "두샨베 가볼만한곳",
+   "타지키스탄 무비자"
+  ],
   "scene": "city_night",
   "status": "done",
   "post": "dushanbe-travel"
@@ -354,7 +500,12 @@
   "city": "누쿠스",
   "region": "uz",
   "cat": "nature",
-  "keywords": ["아랄해 투어", "누쿠스 여행", "사비츠키 미술관", "무이낙"],
+  "keywords": [
+   "아랄해 투어",
+   "누쿠스 여행",
+   "사비츠키 미술관",
+   "무이낙"
+  ],
   "scene": "canyon",
   "status": "done",
   "post": "nukus-aral-sea"
@@ -366,7 +517,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 기념품", "수자니", "우즈베키스탄 쇼핑", "부하라 기념품"],
+  "keywords": [
+   "우즈베키스탄 기념품",
+   "수자니",
+   "우즈베키스탄 쇼핑",
+   "부하라 기념품"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "uzbekistan-souvenirs"
@@ -378,7 +534,12 @@
   "city": "카라콜",
   "region": "kg",
   "cat": "city",
-  "keywords": ["카라콜 여행", "카라콜 가볼만한곳", "제티오구즈", "키르기스스탄 카라콜"],
+  "keywords": [
+   "카라콜 여행",
+   "카라콜 가볼만한곳",
+   "제티오구즈",
+   "키르기스스탄 카라콜"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "karakol-travel"
@@ -390,7 +551,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "nature",
-  "keywords": ["콜사이 호수", "카인디 호수", "알마티 근교", "콜사이 1박2일"],
+  "keywords": [
+   "콜사이 호수",
+   "카인디 호수",
+   "알마티 근교",
+   "콜사이 1박2일"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "kolsai-kaindy-lakes"
@@ -402,7 +568,12 @@
   "city": "투르키스탄",
   "region": "kz",
   "cat": "city",
-  "keywords": ["투르키스탄 여행", "야사위 영묘", "카자흐스탄 투르키스탄", "쉼켄트"],
+  "keywords": [
+   "투르키스탄 여행",
+   "야사위 영묘",
+   "카자흐스탄 투르키스탄",
+   "쉼켄트"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "turkistan-travel"
@@ -414,7 +585,12 @@
   "city": "오시",
   "region": "kg",
   "cat": "city",
-  "keywords": ["오시 여행", "술라이만산", "오시 바자르", "키르기스스탄 남부"],
+  "keywords": [
+   "오시 여행",
+   "술라이만산",
+   "오시 바자르",
+   "키르기스스탄 남부"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "osh-travel"
@@ -426,7 +602,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["타슈켄트 알마티", "타슈켄트 알마티 이동", "중앙아시아 국경", "우즈베키스탄 카자흐스탄 이동"],
+  "keywords": [
+   "타슈켄트 알마티",
+   "타슈켄트 알마티 이동",
+   "중앙아시아 국경",
+   "우즈베키스탄 카자흐스탄 이동"
+  ],
   "scene": "highland_road",
   "status": "done",
   "post": "tashkent-almaty-transfer"
@@ -438,7 +619,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["알마티 비슈케크", "알마티 비슈케크 이동", "코르다이 국경", "카자흐스탄 키르기스스탄 이동"],
+  "keywords": [
+   "알마티 비슈케크",
+   "알마티 비슈케크 이동",
+   "코르다이 국경",
+   "카자흐스탄 키르기스스탄 이동"
+  ],
   "scene": "highland_road",
   "status": "done",
   "post": "almaty-bishkek-transfer"
@@ -450,7 +636,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["부모님 우즈베키스탄", "우즈베키스탄 효도여행", "우즈베키스탄 부모님 자유여행", "사마르칸트 부모님"],
+  "keywords": [
+   "부모님 우즈베키스탄",
+   "우즈베키스탄 효도여행",
+   "우즈베키스탄 부모님 자유여행",
+   "사마르칸트 부모님"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "uzbekistan-with-parents"
@@ -462,7 +653,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 숙소", "사마르칸트 호텔", "부하라 숙소", "우즈베키스탄 호텔 추천"],
+  "keywords": [
+   "우즈베키스탄 숙소",
+   "사마르칸트 호텔",
+   "부하라 숙소",
+   "우즈베키스탄 호텔 추천"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "uzbekistan-hotels"
@@ -474,7 +670,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 여행 준비물", "우즈베키스탄 준비물", "중앙아시아 옷차림", "카자흐스탄 여행 준비물"],
+  "keywords": [
+   "중앙아시아 여행 준비물",
+   "우즈베키스탄 준비물",
+   "중앙아시아 옷차림",
+   "카자흐스탄 여행 준비물"
+  ],
   "scene": "suitcase",
   "status": "done",
   "post": "central-asia-packing-list"
@@ -486,7 +687,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "nature",
-  "keywords": ["침간산", "차르박 호수", "타슈켄트 근교", "아미르소이"],
+  "keywords": [
+   "침간산",
+   "차르박 호수",
+   "타슈켄트 근교",
+   "아미르소이"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "chimgan-charvak"
@@ -498,7 +704,12 @@
   "city": "우즈베키스탄",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 거주등록", "우즈베키스탄 레지스트라치야", "우즈베키스탄 입국 주의사항", "우즈베키스탄 숙박 등록"],
+  "keywords": [
+   "우즈베키스탄 거주등록",
+   "우즈베키스탄 레지스트라치야",
+   "우즈베키스탄 입국 주의사항",
+   "우즈베키스탄 숙박 등록"
+  ],
   "scene": "passport",
   "status": "done",
   "post": "uzbekistan-registration"
@@ -510,7 +721,12 @@
   "city": "히바",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["히바 부하라 이동", "히바 부하라 기차", "히바 가는 법", "우즈베키스탄 도시 이동"],
+  "keywords": [
+   "히바 부하라 이동",
+   "히바 부하라 기차",
+   "히바 가는 법",
+   "우즈베키스탄 도시 이동"
+  ],
   "scene": "train",
   "status": "done",
   "post": "khiva-bukhara-transfer"
@@ -522,7 +738,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 국내선", "우즈베키스탄 항공", "타슈켄트 우르겐치 항공", "우즈베키스탄 비행기 예약"],
+  "keywords": [
+   "우즈베키스탄 국내선",
+   "우즈베키스탄 항공",
+   "타슈켄트 우르겐치 항공",
+   "우즈베키스탄 비행기 예약"
+  ],
   "scene": "suitcase",
   "status": "done",
   "post": "uzbekistan-domestic-flights"
@@ -534,7 +755,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "nature",
-  "keywords": ["알틴에멜", "노래하는 모래언덕", "알마티 근교 투어", "카자흐스탄 국립공원"],
+  "keywords": [
+   "알틴에멜",
+   "노래하는 모래언덕",
+   "알마티 근교 투어",
+   "카자흐스탄 국립공원"
+  ],
   "scene": "canyon",
   "status": "done",
   "post": "altyn-emel"
@@ -546,7 +772,12 @@
   "city": "키르기스스탄",
   "region": "kg",
   "cat": "nature",
-  "keywords": ["키르기스스탄 승마", "키르기스스탄 말 트레킹", "키르기스스탄 투어", "유르트 승마 체험"],
+  "keywords": [
+   "키르기스스탄 승마",
+   "키르기스스탄 말 트레킹",
+   "키르기스스탄 투어",
+   "유르트 승마 체험"
+  ],
   "scene": "yurt_steppe",
   "status": "done",
   "post": "kyrgyzstan-horse-trek"
@@ -558,7 +789,12 @@
   "city": "두샨베",
   "region": "other",
   "cat": "nature",
-  "keywords": ["이스칸데르쿨", "타지키스탄 호수", "두샨베 근교", "판 산맥"],
+  "keywords": [
+   "이스칸데르쿨",
+   "타지키스탄 호수",
+   "두샨베 근교",
+   "판 산맥"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "iskanderkul-lake"
@@ -570,7 +806,12 @@
   "city": "투르크메니스탄",
   "region": "other",
   "cat": "spot",
-  "keywords": ["지옥의 문", "다르바자", "투르크메니스탄 여행", "투르크메니스탄 비자"],
+  "keywords": [
+   "지옥의 문",
+   "다르바자",
+   "투르크메니스탄 여행",
+   "투르크메니스탄 비자"
+  ],
   "scene": "canyon",
   "status": "done",
   "post": "darvaza-gas-crater"
@@ -582,7 +823,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["나브루즈", "나브루즈 축제", "중앙아시아 3월 여행", "우즈베키스탄 축제"],
+  "keywords": [
+   "나브루즈",
+   "나브루즈 축제",
+   "중앙아시아 3월 여행",
+   "우즈베키스탄 축제"
+  ],
   "scene": "dome_city",
   "status": "done",
   "post": "navruz-festival"
@@ -594,7 +840,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["중앙아시아 혼자 여행", "우즈베키스탄 치안", "중앙아시아 여자 혼자", "중앙아시아 동행"],
+  "keywords": [
+   "중앙아시아 혼자 여행",
+   "우즈베키스탄 치안",
+   "중앙아시아 여자 혼자",
+   "중앙아시아 동행"
+  ],
   "scene": "phone_pay",
   "status": "done",
   "post": "central-asia-solo-travel"
@@ -606,7 +857,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["타슈켄트 지하철", "타슈켄트 메트로", "타슈켄트 교통카드", "타슈켄트 대중교통"],
+  "keywords": [
+   "타슈켄트 지하철",
+   "타슈켄트 메트로",
+   "타슈켄트 교통카드",
+   "타슈켄트 대중교통"
+  ],
   "scene": "train",
   "status": "skip"
  },
@@ -617,7 +873,12 @@
   "city": "비슈케크",
   "region": "kg",
   "cat": "nature",
-  "keywords": ["알라아르차", "알라아르차 국립공원", "비슈케크 근교", "키르기스스탄 트레킹"],
+  "keywords": [
+   "알라아르차",
+   "알라아르차 국립공원",
+   "비슈케크 근교",
+   "키르기스스탄 트레킹"
+  ],
   "scene": "snow_mountain",
   "status": "skip"
  },
@@ -628,7 +889,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "spot",
-  "keywords": ["콕토베", "메데우", "알마티 케이블카", "알마티 야경"],
+  "keywords": [
+   "콕토베",
+   "메데우",
+   "알마티 케이블카",
+   "알마티 야경"
+  ],
   "scene": "city_night",
   "status": "skip"
  },
@@ -639,7 +905,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["타슈켄트 공항", "타슈켄트 입국", "타슈켄트 공항 시내 이동", "타슈켄트 공항 택시"],
+  "keywords": [
+   "타슈켄트 공항",
+   "타슈켄트 입국",
+   "타슈켄트 공항 시내 이동",
+   "타슈켄트 공항 택시"
+  ],
   "scene": "passport",
   "status": "done",
   "post": "tashkent-airport-guide"
@@ -651,7 +922,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "city",
-  "keywords": ["타슈켄트 맛집", "플롭", "타슈켄트 플롭 센터", "우즈베키스탄 음식"],
+  "keywords": [
+   "타슈켄트 맛집",
+   "플롭",
+   "타슈켄트 플롭 센터",
+   "우즈베키스탄 음식"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "tashkent-plov"
@@ -663,7 +939,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["초르수 바자르", "타슈켄트 시장", "타슈켄트 쇼핑", "타슈켄트 가볼만한곳"],
+  "keywords": [
+   "초르수 바자르",
+   "타슈켄트 시장",
+   "타슈켄트 쇼핑",
+   "타슈켄트 가볼만한곳"
+  ],
   "scene": "bazaar",
   "status": "done",
   "post": "chorsu-bazaar"
@@ -675,7 +956,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 야간열차", "샤르크 열차", "우즈베키스탄 기차 좌석", "우즈베키스탄 침대열차"],
+  "keywords": [
+   "우즈베키스탄 야간열차",
+   "샤르크 열차",
+   "우즈베키스탄 기차 좌석",
+   "우즈베키스탄 침대열차"
+  ],
   "scene": "train",
   "status": "done",
   "post": "uzbekistan-night-train"
@@ -687,7 +973,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "prep",
-  "keywords": ["카자흐스탄 여행 경비", "알마티 여행 경비", "카자흐스탄 물가", "알마티 물가"],
+  "keywords": [
+   "카자흐스탄 여행 경비",
+   "알마티 여행 경비",
+   "카자흐스탄 물가",
+   "알마티 물가"
+  ],
   "scene": "phone_pay",
   "status": "done",
   "post": "kazakhstan-travel-cost"
@@ -699,7 +990,12 @@
   "city": "자민",
   "region": "uz",
   "cat": "nature",
-  "keywords": ["자민 국립공원", "우즈베키스탄 국립공원", "자민 케이블카", "우즈베키스탄 산"],
+  "keywords": [
+   "자민 국립공원",
+   "우즈베키스탄 국립공원",
+   "자민 케이블카",
+   "우즈베키스탄 산"
+  ],
   "scene": "mountain_lake",
   "status": "done",
   "post": "zaamin-national-park"
@@ -711,7 +1007,12 @@
   "city": "타슈켄트",
   "region": "uz",
   "cat": "city",
-  "keywords": ["타슈켄트 야경", "타슈켄트 시티", "매직 시티", "타슈켄트 TV 타워"],
+  "keywords": [
+   "타슈켄트 야경",
+   "타슈켄트 시티",
+   "매직 시티",
+   "타슈켄트 TV 타워"
+  ],
   "scene": "city_night",
   "status": "done",
   "post": "tashkent-night-view"
@@ -723,9 +1024,15 @@
   "city": "알마티",
   "region": "kz",
   "cat": "prep",
-  "keywords": ["알마티 공항", "알마티 입국", "알마티 공항 시내 이동", "카자흐스탄 입국"],
+  "keywords": [
+   "알마티 공항",
+   "알마티 입국",
+   "알마티 공항 시내 이동",
+   "카자흐스탄 입국"
+  ],
   "scene": "passport",
-  "status": "todo"
+  "status": "done",
+  "post": "almaty-airport-guide"
  },
  {
   "id": 62,
@@ -734,7 +1041,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "prep",
-  "keywords": ["알마티 대중교통", "알마티 버스", "알마티 지하철", "오나이 카드"],
+  "keywords": [
+   "알마티 대중교통",
+   "알마티 버스",
+   "알마티 지하철",
+   "오나이 카드"
+  ],
   "scene": "train",
   "status": "todo"
  },
@@ -745,7 +1057,12 @@
   "city": "키르기스스탄",
   "region": "kg",
   "cat": "prep",
-  "keywords": ["키르기스스탄 여행 경비", "키르기스스탄 물가", "비슈케크 물가", "키르기스스탄 여행 예산"],
+  "keywords": [
+   "키르기스스탄 여행 경비",
+   "키르기스스탄 물가",
+   "비슈케크 물가",
+   "키르기스스탄 여행 예산"
+  ],
   "scene": "suitcase",
   "status": "todo"
  },
@@ -756,7 +1073,12 @@
   "city": "사마르칸트",
   "region": "uz",
   "cat": "spot",
-  "keywords": ["레기스탄 광장", "레기스탄 야경", "사마르칸트 야경", "사마르칸트 저녁"],
+  "keywords": [
+   "레기스탄 광장",
+   "레기스탄 야경",
+   "사마르칸트 야경",
+   "사마르칸트 저녁"
+  ],
   "scene": "dome_city",
   "status": "todo"
  },
@@ -767,7 +1089,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "city",
-  "keywords": ["우즈베키스탄 신혼여행", "중앙아시아 신혼여행", "우즈베키스탄 커플 여행", "사마르칸트 호텔"],
+  "keywords": [
+   "우즈베키스탄 신혼여행",
+   "중앙아시아 신혼여행",
+   "우즈베키스탄 커플 여행",
+   "사마르칸트 호텔"
+  ],
   "scene": "dome_city",
   "status": "todo"
  },
@@ -778,7 +1105,12 @@
   "city": "중앙아시아 전체",
   "region": "prep",
   "cat": "prep",
-  "keywords": ["아이와 중앙아시아 여행", "우즈베키스탄 아이와", "알마티 아이와", "중앙아시아 가족여행"],
+  "keywords": [
+   "아이와 중앙아시아 여행",
+   "우즈베키스탄 아이와",
+   "알마티 아이와",
+   "중앙아시아 가족여행"
+  ],
   "scene": "suitcase",
   "status": "todo"
  },
@@ -789,7 +1121,12 @@
   "city": "알마티",
   "region": "kz",
   "cat": "city",
-  "keywords": ["그린 바자르", "알마티 시장", "알마티 쇼핑", "알마티 기념품"],
+  "keywords": [
+   "그린 바자르",
+   "알마티 시장",
+   "알마티 쇼핑",
+   "알마티 기념품"
+  ],
   "scene": "bazaar",
   "status": "todo"
  },
@@ -800,7 +1137,12 @@
   "city": "카자흐스탄",
   "region": "kz",
   "cat": "prep",
-  "keywords": ["카자흐스탄 기차", "알마티 아스타나 기차", "카자흐스탄 기차 예매", "탈고 열차"],
+  "keywords": [
+   "카자흐스탄 기차",
+   "알마티 아스타나 기차",
+   "카자흐스탄 기차 예매",
+   "탈고 열차"
+  ],
   "scene": "train",
   "status": "todo"
  },
@@ -811,7 +1153,12 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 여름", "우즈베키스탄 7월 날씨", "우즈베키스탄 8월 여행", "사마르칸트 더위"],
+  "keywords": [
+   "우즈베키스탄 여름",
+   "우즈베키스탄 7월 날씨",
+   "우즈베키스탄 8월 여행",
+   "사마르칸트 더위"
+  ],
   "scene": "dome_city",
   "status": "todo"
  },
@@ -822,7 +1169,172 @@
   "city": "우즈베키스탄",
   "region": "uz",
   "cat": "prep",
-  "keywords": ["우즈베키스탄 패키지", "우즈베키스탄 자유여행", "우즈베키스탄 여행사", "우즈베키스탄 투어"],
+  "keywords": [
+   "우즈베키스탄 패키지",
+   "우즈베키스탄 자유여행",
+   "우즈베키스탄 여행사",
+   "우즈베키스탄 투어"
+  ],
+  "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 71,
+  "topic": "사마르칸트 시압 바자르 구경법: 말린 과일·논(빵)·견과류 고르는 요령과 비비하눔 연결 동선",
+  "slug": "siab-bazaar",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "시압 바자르",
+   "사마르칸트 시장",
+   "사마르칸트 기념품",
+   "사마르칸트 가볼만한곳"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 72,
+  "topic": "우즈베키스탄 고속열차 히바 연장: 타슈켄트-히바 직통 노선·소요 시간·예매 팁",
+  "slug": "uzbekistan-khiva-train",
+  "city": "히바",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "히바 기차",
+   "타슈켄트 히바 기차",
+   "우즈베키스탄 고속열차",
+   "아프로시욥 히바"
+  ],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 73,
+  "topic": "알마티 맛집 가이드: 베쉬바르막·카자흐 전통 음식과 현지 식당 고르는 법",
+  "slug": "almaty-food",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "city",
+  "keywords": [
+   "알마티 맛집",
+   "카자흐스탄 음식",
+   "베쉬바르막",
+   "알마티 식당"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 74,
+  "topic": "부하라 숙소 고르기: 라비하우즈 주변 전통 가옥 호텔과 위치별 장단점",
+  "slug": "bukhara-hotels",
+  "city": "부하라",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "부하라 숙소",
+   "부하라 호텔",
+   "라비하우즈",
+   "우즈베키스탄 숙소"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 75,
+  "topic": "키르기스스탄 스카즈카 협곡·제티오구즈: 이식쿨 남쪽 하루 코스",
+  "slug": "skazka-jeti-oguz",
+  "city": "이식쿨",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": [
+   "스카즈카 협곡",
+   "제티오구즈",
+   "이식쿨 남쪽",
+   "키르기스스탄 가볼만한곳"
+  ],
+  "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 76,
+  "topic": "중앙아시아 가을 여행: 9~10월 단풍·포도·축제와 나라별 날씨",
+  "slug": "central-asia-autumn",
+  "city": "중앙아시아",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "중앙아시아 가을 여행",
+   "우즈베키스탄 10월 날씨",
+   "알마티 가을",
+   "키르기스스탄 9월"
+  ],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 77,
+  "topic": "우즈베키스탄 사원 복장과 매너: 모스크·영묘 입장 시 옷차림과 사진 예절",
+  "slug": "uzbekistan-etiquette",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 복장",
+   "우즈베키스탄 매너",
+   "모스크 복장",
+   "우즈베키스탄 여행 주의사항"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 78,
+  "topic": "알마티 근교 투르겐 계곡: 폭포·전망대 당일치기와 투어 고르는 법",
+  "slug": "turgen-gorge",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "nature",
+  "keywords": [
+   "투르겐 계곡",
+   "알마티 근교",
+   "알마티 당일치기",
+   "투르겐 폭포"
+  ],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 79,
+  "topic": "비슈케크 오쉬 바자르와 맛집: 키르기스 음식·라그만·시장 구경 동선",
+  "slug": "bishkek-osh-bazaar",
+  "city": "비슈케크",
+  "region": "kg",
+  "cat": "spot",
+  "keywords": [
+   "오쉬 바자르",
+   "비슈케크 맛집",
+   "키르기스스탄 음식",
+   "비슈케크 시장"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 80,
+  "topic": "중앙아시아 여행자 보험과 병원 이용: 응급 상황·약국·의료비 대비법",
+  "slug": "central-asia-travel-insurance",
+  "city": "중앙아시아",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "중앙아시아 여행자 보험",
+   "우즈베키스탄 병원",
+   "카자흐스탄 약국",
+   "여행 응급 상황"
+  ],
   "scene": "passport",
   "status": "todo"
  }
