@@ -399,9 +399,9 @@ def write_feeds():
     open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write(sm)
     items = board_items() or [dict(title="중앙아시아 여행 가이드 2026 — 코스·경비·비자·직항 총정리", path="/", slug="og-main",
                                    desc="우즈베키스탄·카자흐스탄·키르기스스탄 무비자 조건, 직항 노선, 추천 코스와 경비 총정리.", date=DATE)]
-    rss = f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n    <title>중앙아시아 여행 가이드 | stantournaver.com</title>\n    <link>{SITE}/</link>\n    <description>우즈베키스탄, 카자흐스탄, 키르기스스탄 등 중앙아시아 도시별 자유여행 코스·경비·비자·직항 정보</description>\n    <language>ko</language>\n    <lastBuildDate>{datetime.date.fromisoformat(LATEST).strftime("%a, %d %b %Y")} 21:00:00 +0900</lastBuildDate>\n'
+    rss = f'<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n    <title>중앙아시아 여행 가이드 | stantournaver.com</title>\n    <link>{SITE}/</link>\n    <description>우즈베키스탄, 카자흐스탄, 키르기스스탄 등 중앙아시아 도시별 자유여행 코스·경비·비자·직항 정보</description>\n    <language>ko</language>\n    <lastBuildDate>{datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%a, %d %b %Y %H:%M:%S")} +0900</lastBuildDate>\n'
     for i, it in enumerate(items):
-        hh, mm = divmod(21 * 60 - (i % 60) * 10, 60)
+        hh, mm = divmod(8 * 60 - (i % 48) * 10, 60)  # 발행 시각보다 이르게(미래 시각 금지)
         dt = datetime.date.fromisoformat(it["date"]).strftime("%a, %d %b %Y")
         rss += f"    <item>\n      <title>{esc(it['title'])}</title>\n      <link>{SITE}{it['path']}</link>\n      <guid>{SITE}{it['path']}</guid>\n      <description>{esc(it['desc'])}</description>\n      <enclosure url=\"{thumb_url(it['slug'])}\" type=\"image/jpeg\" length=\"0\"/>\n      <pubDate>{dt} {hh:02d}:{mm:02d}:00 +0900</pubDate>\n    </item>\n"
     rss += "  </channel>\n</rss>\n"
