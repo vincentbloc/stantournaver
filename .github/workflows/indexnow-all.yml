@@ -1,0 +1,23 @@
+name: 검색엔진에 전체 주소 알리기 (IndexNow)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    env:
+      SITE_HOST: stantournaver.com
+      INDEXNOW_KEY: 921ff52c1a18cf9a4d1fc9fe0671dd1d
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 사이트맵의 모든 주소를 네이버·빙에 알리기
+        run: |
+          curl -s -o /dev/null -w "키 파일 확인: %{http_code}\n" "https://$SITE_HOST/$INDEXNOW_KEY.txt"
+          python3 -c "import json,os,re; locs=re.findall(r'<loc>([^<]+)</loc>', open('site/sitemap.xml',encoding='utf-8').read()); h=os.environ['SITE_HOST']; k=os.environ['INDEXNOW_KEY']; print(json.dumps({'host':h,'key':k,'keyLocation':f'https://{h}/{k}.txt','urlList':locs}))" > /tmp/body.json
+          echo "보낼 주소 수: $(python3 -c "import json;print(len(json.load(open('/tmp/body.json'))['urlList']))")"
+          for EP in https://searchadvisor.naver.com/indexnow https://api.indexnow.org/indexnow; do
+            CODE=$(curl -s -o /tmp/ix.txt -w "%{http_code}" -X POST "$EP" -H "Content-Type: application/json; charset=utf-8" --data @/tmp/body.json)
+            echo "$EP → $CODE $(head -c 300 /tmp/ix.txt)"
+          done
