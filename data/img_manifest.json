@@ -1360,5 +1360,31 @@
    "h": 905,
    "kw": "almaty-public-transport-tips"
   }
+ ],
+ "kyrgyzstan-travel-cost": [
+  {
+   "file": "kyrgyzstan-travel-cost-kyrgyzstan-travel-cost-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "kyrgyzstan-travel-cost-facts"
+  },
+  {
+   "file": "kyrgyzstan-travel-cost-kyrgyzstan-travel-cost-rank.jpg",
+   "w": 1200,
+   "h": 902,
+   "kw": "kyrgyzstan-travel-cost-rank"
+  },
+  {
+   "file": "kyrgyzstan-travel-cost-kyrgyzstan-travel-cost-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "kyrgyzstan-travel-cost-months"
+  },
+  {
+   "file": "kyrgyzstan-travel-cost-kyrgyzstan-travel-cost-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "kyrgyzstan-travel-cost-tips"
+  }
  ]
 }
