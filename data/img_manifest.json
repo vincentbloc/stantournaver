@@ -1340,5 +1340,25 @@
    "h": 905,
    "kw": "almaty-airport-guide-tips"
   }
+ ],
+ "almaty-public-transport": [
+  {
+   "file": "almaty-public-transport-almaty-public-transport-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "almaty-public-transport-facts"
+  },
+  {
+   "file": "almaty-public-transport-almaty-public-transport-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "almaty-public-transport-compare"
+  },
+  {
+   "file": "almaty-public-transport-almaty-public-transport-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "almaty-public-transport-tips"
+  }
  ]
 }
