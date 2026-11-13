@@ -1386,5 +1386,25 @@
    "h": 905,
    "kw": "kyrgyzstan-travel-cost-tips"
   }
+ ],
+ "registan-night-show": [
+  {
+   "file": "registan-night-show-registan-night-show-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "registan-night-show-facts"
+  },
+  {
+   "file": "registan-night-show-registan-night-show-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "registan-night-show-timebar"
+  },
+  {
+   "file": "registan-night-show-registan-night-show-tips.jpg",
+   "w": 1200,
+   "h": 860,
+   "kw": "registan-night-show-tips"
+  }
  ]
 }
