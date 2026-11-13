@@ -1406,5 +1406,31 @@
    "h": 860,
    "kw": "registan-night-show-tips"
   }
+ ],
+ "uzbekistan-honeymoon": [
+  {
+   "file": "uzbekistan-honeymoon-uzbekistan-honeymoon-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-honeymoon-facts"
+  },
+  {
+   "file": "uzbekistan-honeymoon-uzbekistan-honeymoon-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "uzbekistan-honeymoon-steps"
+  },
+  {
+   "file": "uzbekistan-honeymoon-uzbekistan-honeymoon-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "uzbekistan-honeymoon-checklist"
+  },
+  {
+   "file": "uzbekistan-honeymoon-uzbekistan-honeymoon-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-honeymoon-tips"
+  }
  ]
 }
