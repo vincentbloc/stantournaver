@@ -1452,5 +1452,25 @@
    "h": 816,
    "kw": "central-asia-with-kids-tips"
   }
+ ],
+ "almaty-green-bazaar": [
+  {
+   "file": "almaty-green-bazaar-almaty-green-bazaar-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "almaty-green-bazaar-facts"
+  },
+  {
+   "file": "almaty-green-bazaar-almaty-green-bazaar-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "almaty-green-bazaar-rank"
+  },
+  {
+   "file": "almaty-green-bazaar-almaty-green-bazaar-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "almaty-green-bazaar-tips"
+  }
  ]
 }
