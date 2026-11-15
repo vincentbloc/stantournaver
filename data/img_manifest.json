@@ -1492,5 +1492,31 @@
    "h": 816,
    "kw": "kazakhstan-train-booking-tips"
   }
+ ],
+ "uzbekistan-summer-travel": [
+  {
+   "file": "uzbekistan-summer-travel-uzbekistan-summer-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "uzbekistan-summer-travel-facts"
+  },
+  {
+   "file": "uzbekistan-summer-travel-uzbekistan-summer-travel-steps.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "uzbekistan-summer-travel-steps"
+  },
+  {
+   "file": "uzbekistan-summer-travel-uzbekistan-summer-travel-checklist.jpg",
+   "w": 1200,
+   "h": 712,
+   "kw": "uzbekistan-summer-travel-checklist"
+  },
+  {
+   "file": "uzbekistan-summer-travel-uzbekistan-summer-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "uzbekistan-summer-travel-tips"
+  }
  ]
 }
