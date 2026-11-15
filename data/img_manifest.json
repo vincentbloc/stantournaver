@@ -1472,5 +1472,25 @@
    "h": 816,
    "kw": "almaty-green-bazaar-tips"
   }
+ ],
+ "kazakhstan-train-booking": [
+  {
+   "file": "kazakhstan-train-booking-kazakhstan-train-booking-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "kazakhstan-train-booking-facts"
+  },
+  {
+   "file": "kazakhstan-train-booking-kazakhstan-train-booking-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "kazakhstan-train-booking-timebar"
+  },
+  {
+   "file": "kazakhstan-train-booking-kazakhstan-train-booking-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "kazakhstan-train-booking-tips"
+  }
  ]
 }

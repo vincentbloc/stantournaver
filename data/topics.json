@@ -1150,7 +1150,8 @@
    "탈고 열차"
   ],
   "scene": "train",
-  "status": "todo"
+  "status": "done",
+  "post": "kazakhstan-train-booking"
  },
  {
   "id": 69,
