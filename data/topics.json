@@ -1201,7 +1201,8 @@
    "사마르칸트 가볼만한곳"
   ],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "siab-bazaar"
  },
  {
   "id": 72,
@@ -1345,6 +1346,166 @@
    "여행 응급 상황"
   ],
   "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 81,
+  "topic": "사마르칸트 샤히진다 영묘 단지: 관람 순서·입장 시간·사진 잘 나오는 시간대",
+  "slug": "shah-i-zinda",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "샤히진다",
+   "사마르칸트 샤히진다",
+   "사마르칸트 영묘",
+   "사마르칸트 가볼만한곳"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 82,
+  "topic": "사마르칸트 맛집 가이드: 사마르칸트 플롭·논·샤슬릭 먹는 곳과 주문 요령",
+  "slug": "samarkand-food",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "사마르칸트 맛집",
+   "사마르칸트 플롭",
+   "사마르칸트 식당",
+   "우즈베키스탄 음식"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 83,
+  "topic": "타슈켄트 숙소 고르기: 아미르 티무르 광장·초르수·공항 근처 위치별 장단점",
+  "slug": "tashkent-hotels",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "타슈켄트 숙소",
+   "타슈켄트 호텔",
+   "타슈켄트 호텔 추천 지역",
+   "우즈베키스탄 숙소"
+  ],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 84,
+  "topic": "알마티 숙소 고르기: 판필로프 공원·아르바트·돌기 지역별 장단점",
+  "slug": "almaty-hotels",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": [
+   "알마티 숙소",
+   "알마티 호텔",
+   "알마티 숙소 위치",
+   "카자흐스탄 숙소"
+  ],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 85,
+  "topic": "사마르칸트 코니길 종이 공방: 실크로드 종이 만들기 체험과 가는 법",
+  "slug": "konigil-paper",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "코니길",
+   "사마르칸트 종이 공방",
+   "사마르칸트 근교",
+   "우즈베키스탄 체험"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 86,
+  "topic": "쉼켄트 여행: 카자흐스탄 남부 도시 가볼만한곳과 투르키스탄 연결 일정",
+  "slug": "shymkent-travel",
+  "city": "쉼켄트",
+  "region": "kz",
+  "cat": "city",
+  "keywords": [
+   "쉼켄트",
+   "쉼켄트 여행",
+   "카자흐스탄 남부",
+   "쉼켄트 가볼만한곳"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 87,
+  "topic": "부라나 탑·토크목 당일치기: 비슈케크에서 가는 법과 돌 조각상 들판",
+  "slug": "burana-tower",
+  "city": "비슈케크",
+  "region": "kg",
+  "cat": "spot",
+  "keywords": [
+   "부라나 탑",
+   "비슈케크 근교",
+   "토크목",
+   "키르기스스탄 가볼만한곳"
+  ],
+  "scene": "yurt_steppe",
+  "status": "todo"
+ },
+ {
+  "id": 88,
+  "topic": "후잔드 여행: 타지키스탄 북부 도시와 우즈베키스탄 국경 넘는 법",
+  "slug": "khujand-travel",
+  "city": "후잔드",
+  "region": "other",
+  "cat": "city",
+  "keywords": [
+   "후잔드",
+   "타지키스탄 여행",
+   "타지키스탄 국경",
+   "후잔드 가볼만한곳"
+  ],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 89,
+  "topic": "중앙아시아 여행 필수 앱: 지도·택시·기차 예매·번역·결제 앱 정리",
+  "slug": "central-asia-travel-apps",
+  "city": "중앙아시아",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "중앙아시아 여행 앱",
+   "우즈베키스탄 앱",
+   "카자흐스탄 앱",
+   "여행 필수 앱"
+  ],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 90,
+  "topic": "중앙아시아 사진 명소: 사마르칸트·히바·알마티 인생샷 장소와 시간대",
+  "slug": "central-asia-photo-spots",
+  "city": "중앙아시아",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "중앙아시아 사진 명소",
+   "우즈베키스탄 인생샷",
+   "사마르칸트 사진",
+   "히바 일몰"
+  ],
+  "scene": "dome_city",
   "status": "todo"
  }
 ]

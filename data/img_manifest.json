@@ -1538,5 +1538,25 @@
    "h": 883,
    "kw": "uzbekistan-package-vs-free-tips"
   }
+ ],
+ "siab-bazaar": [
+  {
+   "file": "siab-bazaar-siab-bazaar-facts.jpg",
+   "w": 1200,
+   "h": 814,
+   "kw": "siab-bazaar-facts"
+  },
+  {
+   "file": "siab-bazaar-siab-bazaar-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "siab-bazaar-rank"
+  },
+  {
+   "file": "siab-bazaar-siab-bazaar-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "siab-bazaar-tips"
+  }
  ]
 }
