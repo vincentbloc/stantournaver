@@ -1251,7 +1251,7 @@
    "우즈베키스탄 숙소"
   ],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "skip"
  },
  {
   "id": 75,
@@ -1267,7 +1267,8 @@
    "키르기스스탄 가볼만한곳"
   ],
   "scene": "canyon",
-  "status": "todo"
+  "status": "done",
+  "post": "skazka-jeti-oguz"
  },
  {
   "id": 76,

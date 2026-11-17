@@ -1578,5 +1578,31 @@
    "h": 816,
    "kw": "almaty-food-tips"
   }
+ ],
+ "skazka-jeti-oguz": [
+  {
+   "file": "skazka-jeti-oguz-skazka-jeti-oguz-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "skazka-jeti-oguz-facts"
+  },
+  {
+   "file": "skazka-jeti-oguz-skazka-jeti-oguz-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "skazka-jeti-oguz-steps"
+  },
+  {
+   "file": "skazka-jeti-oguz-skazka-jeti-oguz-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "skazka-jeti-oguz-checklist"
+  },
+  {
+   "file": "skazka-jeti-oguz-skazka-jeti-oguz-tips.jpg",
+   "w": 1200,
+   "h": 905,
+   "kw": "skazka-jeti-oguz-tips"
+  }
  ]
 }
