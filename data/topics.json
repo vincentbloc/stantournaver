@@ -1218,7 +1218,7 @@
    "아프로시욥 히바"
   ],
   "scene": "train",
-  "status": "todo"
+  "status": "skip"
  },
  {
   "id": 73,
@@ -1234,7 +1234,8 @@
    "알마티 식당"
   ],
   "scene": "bazaar",
-  "status": "todo"
+  "status": "done",
+  "post": "almaty-food"
  },
  {
   "id": 74,

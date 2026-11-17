@@ -1558,5 +1558,25 @@
    "h": 816,
    "kw": "siab-bazaar-tips"
   }
+ ],
+ "almaty-food": [
+  {
+   "file": "almaty-food-almaty-food-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "almaty-food-facts"
+  },
+  {
+   "file": "almaty-food-almaty-food-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "almaty-food-timebar"
+  },
+  {
+   "file": "almaty-food-almaty-food-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "almaty-food-tips"
+  }
  ]
 }
