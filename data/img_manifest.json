@@ -1604,5 +1604,25 @@
    "h": 905,
    "kw": "skazka-jeti-oguz-tips"
   }
+ ],
+ "central-asia-autumn": [
+  {
+   "file": "central-asia-autumn-central-asia-autumn-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-autumn-facts"
+  },
+  {
+   "file": "central-asia-autumn-central-asia-autumn-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "central-asia-autumn-compare"
+  },
+  {
+   "file": "central-asia-autumn-central-asia-autumn-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-autumn-tips"
+  }
  ]
 }
