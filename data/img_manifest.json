@@ -1670,5 +1670,31 @@
    "h": 860,
    "kw": "turgen-gorge-tips"
   }
+ ],
+ "bishkek-osh-bazaar": [
+  {
+   "file": "bishkek-osh-bazaar-bishkek-osh-bazaar-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "bishkek-osh-bazaar-facts"
+  },
+  {
+   "file": "bishkek-osh-bazaar-bishkek-osh-bazaar-route.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "bishkek-osh-bazaar-route"
+  },
+  {
+   "file": "bishkek-osh-bazaar-bishkek-osh-bazaar-checklist.jpg",
+   "w": 1200,
+   "h": 712,
+   "kw": "bishkek-osh-bazaar-checklist"
+  },
+  {
+   "file": "bishkek-osh-bazaar-bishkek-osh-bazaar-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "bishkek-osh-bazaar-tips"
+  }
  ]
 }
