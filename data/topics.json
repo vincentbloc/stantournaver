@@ -1369,7 +1369,8 @@
    "사마르칸트 가볼만한곳"
   ],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "shah-i-zinda"
  },
  {
   "id": 82,
@@ -1511,6 +1512,166 @@
    "우즈베키스탄 인생샷",
    "사마르칸트 사진",
    "히바 일몰"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 91,
+  "topic": "사마르칸트 구르 에미르: 티무르 영묘 관람 포인트·야간 개방 시간·레기스탄과 묶는 동선",
+  "slug": "gur-emir",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "구르 에미르",
+   "사마르칸트 구르 에미르",
+   "티무르 영묘",
+   "사마르칸트 야경"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 92,
+  "topic": "타슈켄트 하즈라티 이맘 단지: 오스만 코란 보는 법·복장·가는 법",
+  "slug": "hazrati-imam",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "하즈라티 이맘",
+   "타슈켄트 가볼만한곳",
+   "타슈켄트 모스크",
+   "오스만 코란"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 93,
+  "topic": "키르기스스탄 타시라밧: 실크로드 대상 숙소 가는 법과 나린 1박 코스",
+  "slug": "tash-rabat",
+  "city": "나린",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": [
+   "타시라밧",
+   "키르기스스탄 타시라밧",
+   "나린 여행",
+   "키르기스스탄 실크로드"
+  ],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 94,
+  "topic": "키르기스스탄 아르슬란밥: 세계 최대 호두나무 숲 트레킹과 홈스테이",
+  "slug": "arslanbob",
+  "city": "아르슬란밥",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": [
+   "아르슬란밥",
+   "키르기스스탄 호두숲",
+   "키르기스스탄 트레킹",
+   "잘랄아바드"
+  ],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 95,
+  "topic": "이식쿨 촐폰아타 암각화·루흐 오르도: 북쪽 호숫가 하루 코스",
+  "slug": "cholpon-ata",
+  "city": "촐폰아타",
+  "region": "kg",
+  "cat": "spot",
+  "keywords": [
+   "촐폰아타",
+   "이식쿨 촐폰아타",
+   "촐폰아타 암각화",
+   "이식쿨 여행"
+  ],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 96,
+  "topic": "사마르칸트 우르구트 바자르: 수자니·골동품 시장 가는 법과 흥정 요령",
+  "slug": "urgut-bazaar",
+  "city": "우르구트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "우르구트 바자르",
+   "사마르칸트 근교",
+   "수자니 시장",
+   "우즈베키스탄 시장"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 97,
+  "topic": "페르가나 리쉬탄 도자기 마을: 공방 견학·구매·배송 팁",
+  "slug": "rishtan-ceramics",
+  "city": "리쉬탄",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "리쉬탄",
+   "리쉬탄 도자기",
+   "페르가나 여행",
+   "우즈베키스탄 도자기"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 98,
+  "topic": "중앙아시아 고산병 대비: 파미르·송쿨·카라콜 고도별 증상과 예방법",
+  "slug": "central-asia-altitude",
+  "city": "중앙아시아",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "고산병",
+   "중앙아시아 고산병",
+   "파미르 고산병",
+   "키르기스스탄 고산병"
+  ],
+  "scene": "highland_road",
+  "status": "todo"
+ },
+ {
+  "id": 99,
+  "topic": "카라콜 스키장: 키르기스스탄 겨울 스키 시즌·리프트·숙소 정리",
+  "slug": "karakol-ski",
+  "city": "카라콜",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": [
+   "카라콜 스키장",
+   "키르기스스탄 스키",
+   "중앙아시아 스키",
+   "카라콜 겨울"
+  ],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 100,
+  "topic": "부하라 아르크 성·볼로 하우즈: 입장료·관람 순서·해 질 녘 성벽 사진",
+  "slug": "bukhara-ark",
+  "city": "부하라",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "부하라 아르크",
+   "부하라 가볼만한곳",
+   "볼로 하우즈 모스크",
+   "부하라 성"
   ],
   "scene": "dome_city",
   "status": "todo"
