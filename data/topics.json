@@ -1352,7 +1352,8 @@
    "여행 응급 상황"
   ],
   "scene": "passport",
-  "status": "todo"
+  "status": "done",
+  "post": "central-asia-travel-insurance"
  },
  {
   "id": 81,
