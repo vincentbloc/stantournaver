@@ -1756,5 +1756,31 @@
    "h": 816,
    "kw": "samarkand-food-tips"
   }
+ ],
+ "tashkent-hotels": [
+  {
+   "file": "tashkent-hotels-tashkent-hotels-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tashkent-hotels-facts"
+  },
+  {
+   "file": "tashkent-hotels-tashkent-hotels-metro.jpg",
+   "w": 1200,
+   "h": 1077,
+   "kw": "tashkent-hotels-metro"
+  },
+  {
+   "file": "tashkent-hotels-tashkent-hotels-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "tashkent-hotels-checklist"
+  },
+  {
+   "file": "tashkent-hotels-tashkent-hotels-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tashkent-hotels-tips"
+  }
  ]
 }
