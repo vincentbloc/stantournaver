@@ -1736,5 +1736,25 @@
    "h": 816,
    "kw": "shah-i-zinda-tips"
   }
+ ],
+ "samarkand-food": [
+  {
+   "file": "samarkand-food-samarkand-food-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "samarkand-food-facts"
+  },
+  {
+   "file": "samarkand-food-samarkand-food-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "samarkand-food-timebar"
+  },
+  {
+   "file": "samarkand-food-samarkand-food-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "samarkand-food-tips"
+  }
  ]
 }
