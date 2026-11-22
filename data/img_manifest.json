@@ -1802,5 +1802,25 @@
    "h": 816,
    "kw": "almaty-hotels-tips"
   }
+ ],
+ "konigil-paper": [
+  {
+   "file": "konigil-paper-konigil-paper-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "konigil-paper-facts"
+  },
+  {
+   "file": "konigil-paper-konigil-paper-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "konigil-paper-rank"
+  },
+  {
+   "file": "konigil-paper-konigil-paper-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "konigil-paper-tips"
+  }
  ]
 }
