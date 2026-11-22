@@ -1782,5 +1782,25 @@
    "h": 816,
    "kw": "tashkent-hotels-tips"
   }
+ ],
+ "almaty-hotels": [
+  {
+   "file": "almaty-hotels-almaty-hotels-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "almaty-hotels-facts"
+  },
+  {
+   "file": "almaty-hotels-almaty-hotels-compare.jpg",
+   "w": 1200,
+   "h": 726,
+   "kw": "almaty-hotels-compare"
+  },
+  {
+   "file": "almaty-hotels-almaty-hotels-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "almaty-hotels-tips"
+  }
  ]
 }
