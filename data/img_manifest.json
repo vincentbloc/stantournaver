@@ -1842,5 +1842,31 @@
    "h": 816,
    "kw": "shymkent-travel-tips"
   }
+ ],
+ "burana-tower": [
+  {
+   "file": "burana-tower-burana-tower-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "burana-tower-facts"
+  },
+  {
+   "file": "burana-tower-burana-tower-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "burana-tower-steps"
+  },
+  {
+   "file": "burana-tower-burana-tower-timebar.jpg",
+   "w": 1200,
+   "h": 782,
+   "kw": "burana-tower-timebar"
+  },
+  {
+   "file": "burana-tower-burana-tower-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "burana-tower-tips"
+  }
  ]
 }
