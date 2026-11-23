@@ -1822,5 +1822,25 @@
    "h": 816,
    "kw": "konigil-paper-tips"
   }
+ ],
+ "shymkent-travel": [
+  {
+   "file": "shymkent-travel-shymkent-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "shymkent-travel-facts"
+  },
+  {
+   "file": "shymkent-travel-shymkent-travel-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "shymkent-travel-months"
+  },
+  {
+   "file": "shymkent-travel-shymkent-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "shymkent-travel-tips"
+  }
  ]
 }
