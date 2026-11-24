@@ -1868,5 +1868,31 @@
    "h": 816,
    "kw": "burana-tower-tips"
   }
+ ],
+ "khujand-travel": [
+  {
+   "file": "khujand-travel-khujand-travel-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "khujand-travel-facts"
+  },
+  {
+   "file": "khujand-travel-khujand-travel-compare.jpg",
+   "w": 1200,
+   "h": 763,
+   "kw": "khujand-travel-compare"
+  },
+  {
+   "file": "khujand-travel-khujand-travel-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "khujand-travel-checklist"
+  },
+  {
+   "file": "khujand-travel-khujand-travel-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "khujand-travel-tips"
+  }
  ]
 }
