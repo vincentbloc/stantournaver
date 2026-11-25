@@ -1914,5 +1914,31 @@
    "h": 816,
    "kw": "central-asia-travel-apps-tips"
   }
+ ],
+ "central-asia-photo-spots": [
+  {
+   "file": "central-asia-photo-spots-central-asia-photo-spots-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "central-asia-photo-spots-facts"
+  },
+  {
+   "file": "central-asia-photo-spots-central-asia-photo-spots-timebar.jpg",
+   "w": 1200,
+   "h": 894,
+   "kw": "central-asia-photo-spots-timebar"
+  },
+  {
+   "file": "central-asia-photo-spots-central-asia-photo-spots-months.jpg",
+   "w": 1200,
+   "h": 530,
+   "kw": "central-asia-photo-spots-months"
+  },
+  {
+   "file": "central-asia-photo-spots-central-asia-photo-spots-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "central-asia-photo-spots-tips"
+  }
  ]
 }
