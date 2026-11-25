@@ -1940,5 +1940,25 @@
    "h": 816,
    "kw": "central-asia-photo-spots-tips"
   }
+ ],
+ "gur-emir": [
+  {
+   "file": "gur-emir-gur-emir-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "gur-emir-facts"
+  },
+  {
+   "file": "gur-emir-gur-emir-steps.jpg",
+   "w": 1200,
+   "h": 1244,
+   "kw": "gur-emir-steps"
+  },
+  {
+   "file": "gur-emir-gur-emir-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "gur-emir-tips"
+  }
  ]
 }

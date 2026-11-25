@@ -1539,7 +1539,8 @@
    "사마르칸트 야경"
   ],
   "scene": "dome_city",
-  "status": "todo"
+  "status": "done",
+  "post": "gur-emir"
  },
  {
   "id": 92,
@@ -1683,6 +1684,166 @@
    "부하라 성"
   ],
   "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 101,
+  "topic": "사마르칸트 '영원의 도시'(실크로드 사마르칸트): 입장 방법·야경·셔틀과 공연 정리",
+  "slug": "samarkand-eternal-city",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "영원의 도시",
+   "실크로드 사마르칸트",
+   "사마르칸트 야경",
+   "사마르칸트 가볼만한곳"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 102,
+  "topic": "사마르칸트 울루그벡 천문대·아프로시욥 박물관: 관람 포인트와 반나절 동선",
+  "slug": "ulugbek-observatory",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "울루그벡 천문대",
+   "아프로시욥 박물관",
+   "사마르칸트 박물관",
+   "사마르칸트 반나절"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 103,
+  "topic": "우즈베키스탄 와이너리 투어: 사마르칸트 와인 시음·예약 방법과 주의할 점",
+  "slug": "uzbekistan-wine",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "우즈베키스탄 와인",
+   "사마르칸트 와이너리",
+   "와인 시음",
+   "우즈베키스탄 술"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 104,
+  "topic": "부하라 맛집과 전통 음식: 구시가 식당 고르는 법·플롭·디저트 추천",
+  "slug": "bukhara-food",
+  "city": "부하라",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "부하라 맛집",
+   "부하라 음식",
+   "우즈베키스탄 음식",
+   "부하라 식당"
+  ],
+  "scene": "bazaar",
+  "status": "todo"
+ },
+ {
+  "id": 105,
+  "topic": "부하라 야경과 저녁 공연: 라비하우즈·칼론 조명과 민속 공연 보는 법",
+  "slug": "bukhara-night",
+  "city": "부하라",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "부하라 야경",
+   "부하라 민속 공연",
+   "라비하우즈 저녁",
+   "부하라 밤"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 106,
+  "topic": "타슈켄트 아미르 티무르 박물관·광장: 관람 시간과 시내 도보 코스",
+  "slug": "tashkent-amir-timur-museum",
+  "city": "타슈켄트",
+  "region": "uz",
+  "cat": "spot",
+  "keywords": [
+   "아미르 티무르 박물관",
+   "타슈켄트 박물관",
+   "아미르 티무르 광장",
+   "타슈켄트 가볼만한곳"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 107,
+  "topic": "우즈베키스탄 테르메즈 불교 유적: 카라테파·파야즈테파 가는 법과 일정",
+  "slug": "termez",
+  "city": "테르메즈",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "테르메즈",
+   "우즈베키스탄 불교 유적",
+   "카라테파",
+   "테르메즈 가는 법"
+  ],
+  "scene": "canyon",
+  "status": "todo"
+ },
+ {
+  "id": 108,
+  "topic": "카자흐스탄 오트라르·사우란 고대 도시: 투르키스탄에서 가는 법과 하루 코스",
+  "slug": "otrar-sauran",
+  "city": "투르키스탄",
+  "region": "kz",
+  "cat": "spot",
+  "keywords": [
+   "오트라르",
+   "사우란",
+   "카자흐스탄 실크로드",
+   "투르키스탄 근교"
+  ],
+  "scene": "yurt_steppe",
+  "status": "todo"
+ },
+ {
+  "id": 109,
+  "topic": "키르기스스탄 사리첼렉 호수: 생물권 보전지역 가는 법·허가·숙박",
+  "slug": "sary-chelek",
+  "city": "사리첼렉",
+  "region": "kg",
+  "cat": "nature",
+  "keywords": [
+   "사리첼렉",
+   "키르기스스탄 호수",
+   "사리첼렉 가는 법",
+   "잘랄아바드 여행"
+  ],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 110,
+  "topic": "타지키스탄 세븐 레이크(마르구조르 호수): 판지켄트 출발 당일치기와 투어 고르는 법",
+  "slug": "seven-lakes",
+  "city": "판지켄트",
+  "region": "other",
+  "cat": "nature",
+  "keywords": [
+   "세븐 레이크",
+   "마르구조르 호수",
+   "판지켄트",
+   "타지키스탄 호수"
+  ],
+  "scene": "mountain_lake",
   "status": "todo"
  }
 ]
