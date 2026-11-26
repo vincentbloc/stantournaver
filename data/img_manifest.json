@@ -1960,5 +1960,31 @@
    "h": 816,
    "kw": "gur-emir-tips"
   }
+ ],
+ "hazrati-imam": [
+  {
+   "file": "hazrati-imam-hazrati-imam-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "hazrati-imam-facts"
+  },
+  {
+   "file": "hazrati-imam-hazrati-imam-compare.jpg",
+   "w": 1200,
+   "h": 749,
+   "kw": "hazrati-imam-compare"
+  },
+  {
+   "file": "hazrati-imam-hazrati-imam-checklist.jpg",
+   "w": 1200,
+   "h": 590,
+   "kw": "hazrati-imam-checklist"
+  },
+  {
+   "file": "hazrati-imam-hazrati-imam-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "hazrati-imam-tips"
+  }
  ]
 }
