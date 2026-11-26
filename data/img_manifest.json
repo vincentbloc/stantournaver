@@ -1986,5 +1986,25 @@
    "h": 816,
    "kw": "hazrati-imam-tips"
   }
+ ],
+ "tash-rabat": [
+  {
+   "file": "tash-rabat-tash-rabat-facts.jpg",
+   "w": 1200,
+   "h": 767,
+   "kw": "tash-rabat-facts"
+  },
+  {
+   "file": "tash-rabat-tash-rabat-rank.jpg",
+   "w": 1200,
+   "h": 1034,
+   "kw": "tash-rabat-rank"
+  },
+  {
+   "file": "tash-rabat-tash-rabat-tips.jpg",
+   "w": 1200,
+   "h": 816,
+   "kw": "tash-rabat-tips"
+  }
  ]
 }
