@@ -49,15 +49,15 @@
   "https://eurasia.travel/forum/itineraries-kyrgyzstan/jeti-oguz-or-skazka-canyon-if-you-can-only-visit-one-which-would-you-choose/",
   "https://againstthecompass.com/en/trekking-in-karakol/",
   "https://www.advantour.com/rus/kyrgyzstan/nature/gorges-canyons-valleys/skazka.htm",
-  "https://www.saigatours.com/article/visiting-a-soviet-sanatorium-in-kyrgyzstan"
- ],
+  "https://www.saigatours.com/article/visiting-a-soviet-sanatorium-in-kyrgyzstan",
+  "https://central-asia.guide/kyrgyzstan-cuts-visa-free-stay-from-60-days-to-30-days/"],
  "x": {
   "stitle": "스카즈카 협곡·제티오구즈 하루 코스 총정리",
   "scene": "canyon",
   "facts": {
    "title": "스카즈카·제티오구즈 한눈에 보기",
    "kw": "skazka-jeti-oguz-facts",
-   "alt": "스카즈카 협곡 제티오구즈 한눈에 보기 - 카라콜에서 제티오구즈 차로 30~40분, 스카즈카 약 2시간, 스카즈카 입장료 50~100솜 현금, 관람 1~3시간, 추천 시기 6~9월, 한국 여권 무비자 60일",
+   "alt": "스카즈카 협곡 제티오구즈 한눈에 보기 - 카라콜에서 제티오구즈 차로 30~40분, 스카즈카 약 2시간, 스카즈카 입장료 50~100솜 현금, 관람 1~3시간, 추천 시기 6~9월, 한국 여권 무비자 30일",
    "items": [
     [
      "🚗",
@@ -87,7 +87,7 @@
     [
      "🛂",
      "한국 여권",
-     "무비자 60일"
+     "무비자 30일"
     ]
    ]
   },

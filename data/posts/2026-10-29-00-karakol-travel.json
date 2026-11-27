@@ -60,15 +60,15 @@
   "https://visitkyrgyzstan.org/itinerary-winter",
   "https://www.powderhounds.com/other/kyrgyzstan/karakol/getting-there.aspx",
   "https://ak-sai.com/en/karakol",
-  "https://kaktus.media/doc/530954_zapyshen_priamoy_avtobysnyy_reys_karakol_almaty_video.html"
- ],
+  "https://kaktus.media/doc/530954_zapyshen_priamoy_avtobysnyy_reys_karakol_almaty_video.html",
+  "https://central-asia.guide/kyrgyzstan-cuts-visa-free-stay-from-60-days-to-30-days/"],
  "x": {
   "stitle": "카라콜 여행: 며칠 묵을까·시내 동선·근교 투어",
   "scene": "mountain_lake",
   "facts": {
    "title": "카라콜 여행 한눈에 보기",
    "kw": "karakol-travel-facts",
-   "alt": "카라콜 여행 한눈에 보기 - 이식쿨 동쪽 끝 위치, 비슈케크에서 버스 6~7시간, 추천 3박, 일요일 아침 가축시장, 명물 아슐랸푸, 한국 여권 무비자 60일",
+   "alt": "카라콜 여행 한눈에 보기 - 이식쿨 동쪽 끝 위치, 비슈케크에서 버스 6~7시간, 추천 3박, 일요일 아침 가축시장, 명물 아슐랸푸, 한국 여권 무비자 30일",
    "items": [
     [
      "📍",
@@ -98,7 +98,7 @@
     [
      "🛂",
      "한국 여권",
-     "무비자 60일"
+     "무비자 30일"
     ]
    ]
   },

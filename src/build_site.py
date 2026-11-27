@@ -157,7 +157,8 @@ def more_box(p):
     rel = B.related_for(p)
     h = hub_of(p)
     same = [x for x in POSTS if h and hub_of(x) is h]
-    for x in same[:1] + rel[:1] + [by[s] for s in POPULAR if s in by] + rel[1:]:
+    pop = sorted((by[s] for s in POPULAR if s in by), key=lambda x: x["region"] != p["region"])  # 같은 지역 인기 글 먼저
+    for x in same[:1] + rel[:1] + pop + rel[1:]:
         if x["slug"] in seen or not x["path"].startswith("/travel/"): continue
         seen.add(x["slug"]); pick.append(x)
         if len(pick) == 3: break

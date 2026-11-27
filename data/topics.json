@@ -1611,6 +1611,262 @@
   "post": "cholpon-ata"
  },
  {
+  "id": 111,
+  "topic": "키르기스스탄 무비자 30일 변경 총정리: 60일 중 30일 계산법과 장기 체류 방법",
+  "slug": "kyrgyzstan-visa-30-days",
+  "city": "키르기스스탄",
+  "region": "kg",
+  "cat": "prep",
+  "keywords": [
+   "키르기스스탄 무비자",
+   "키르기스스탄 비자",
+   "키르기스스탄 무비자 30일",
+   "키르기스스탄 입국"
+  ],
+  "scene": "passport",
+  "status": "todo"
+ },
+ {
+  "id": 112,
+  "topic": "우즈베키스탄 12월 날씨와 옷차림: 타슈켄트·사마르칸트·부하라 기온과 겨울 여행 팁",
+  "slug": "uzbekistan-december-weather",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 12월 날씨",
+   "우즈베키스탄 12월",
+   "우즈베키스탄 겨울 옷차림",
+   "타슈켄트 12월 날씨"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 113,
+  "topic": "알마티 12월 날씨와 옷차림: 기온·눈·침불락 스키 시즌 준비",
+  "slug": "almaty-december-weather",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": [
+   "알마티 12월 날씨",
+   "알마티 12월",
+   "알마티 겨울 옷차림",
+   "카자흐스탄 12월 날씨"
+  ],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
+  "id": 114,
+  "topic": "우즈베키스탄 3박4일·4박5일 코스: 타슈켄트와 사마르칸트만 짧게 다녀오는 일정",
+  "slug": "uzbekistan-3n4d-course",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "우즈베키스탄 3박4일",
+   "우즈베키스탄 4박5일",
+   "우즈베키스탄 여행 코스",
+   "우즈베키스탄 짧은 일정"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 115,
+  "topic": "키르기스스탄 여행 코스 7박8일: 비슈케크·이식쿨·카라콜·송쿨 동선과 이동 시간",
+  "slug": "kyrgyzstan-7n8d-course",
+  "city": "키르기스스탄",
+  "region": "kg",
+  "cat": "city",
+  "keywords": [
+   "키르기스스탄 여행 코스",
+   "키르기스스탄 7박8일",
+   "키르기스스탄 자유여행",
+   "키르기스스탄 일정"
+  ],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 116,
+  "topic": "우즈베키스탄 약 반입 규정: 감기약·수면제·처방약 세관 신고 방법과 금지 성분",
+  "slug": "uzbekistan-medicine-customs",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 약 반입",
+   "우즈베키스탄 세관",
+   "우즈베키스탄 입국 주의사항",
+   "우즈베키스탄 상비약"
+  ],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 117,
+  "topic": "우즈베키스탄 7박8일 코스: 타슈켄트·사마르칸트·부하라·히바 4개 도시 동선",
+  "slug": "uzbekistan-7n8d-course",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "우즈베키스탄 7박8일",
+   "우즈베키스탄 일주일",
+   "우즈베키스탄 히바 코스",
+   "우즈베키스탄 여행 코스"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 118,
+  "topic": "사마르칸트 당일치기: 타슈켄트에서 고속철로 다녀오는 하루 코스와 시간표 짜기",
+  "slug": "samarkand-day-trip",
+  "city": "사마르칸트",
+  "region": "uz",
+  "cat": "city",
+  "keywords": [
+   "사마르칸트 당일치기",
+   "타슈켄트 사마르칸트 당일",
+   "사마르칸트 하루 코스",
+   "타슈켄트 근교 여행"
+  ],
+  "scene": "train",
+  "status": "todo"
+ },
+ {
+  "id": 119,
+  "topic": "우즈베키스탄 치안과 여행 사기 유형: 택시 바가지·환전·밤거리 주의사항",
+  "slug": "uzbekistan-safety",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 치안",
+   "우즈베키스탄 여행 주의사항",
+   "타슈켄트 치안",
+   "우즈베키스탄 사기"
+  ],
+  "scene": "taxi",
+  "status": "todo"
+ },
+ {
+  "id": 120,
+  "topic": "알마티 4박5일 코스: 콜사이·카인디 호수와 차른 캐니언을 넣은 일정",
+  "slug": "almaty-4n5d-course",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "city",
+  "keywords": [
+   "알마티 4박5일",
+   "알마티 여행 코스",
+   "카자흐스탄 여행 코스",
+   "알마티 자유여행"
+  ],
+  "scene": "mountain_lake",
+  "status": "todo"
+ },
+ {
+  "id": 121,
+  "topic": "우즈베키스탄 연말·새해 여행: 12월 31일~1월 초 휴무와 분위기, 기차·식당 예약 요령",
+  "slug": "uzbekistan-new-year-trip",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 새해",
+   "우즈베키스탄 연말 여행",
+   "타슈켄트 새해",
+   "우즈베키스탄 1월 여행"
+  ],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 122,
+  "topic": "알마티 한달살기: 숙소 구하는 법·생활비·동네 고르기",
+  "slug": "almaty-one-month",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": [
+   "알마티 한달살기",
+   "카자흐스탄 한달살기",
+   "알마티 생활비",
+   "알마티 장기 숙소"
+  ],
+  "scene": "city_night",
+  "status": "todo"
+ },
+ {
+  "id": 123,
+  "topic": "우즈베키스탄 언어와 여행 회화: 영어가 통할까, 러시아어·우즈베크어 필수 표현",
+  "slug": "uzbekistan-language",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 언어",
+   "우즈베키스탄 영어",
+   "우즈베크어 인사말",
+   "우즈베키스탄 러시아어"
+  ],
+  "scene": "phone_pay",
+  "status": "todo"
+ },
+ {
+  "id": 124,
+  "topic": "설 연휴 중앙아시아 여행: 2027년 2월 연휴 일정별 추천 나라와 준비",
+  "slug": "central-asia-seollal-trip",
+  "city": "중앙아시아 전체",
+  "region": "prep",
+  "cat": "prep",
+  "keywords": [
+   "설 연휴 해외여행",
+   "설 연휴 우즈베키스탄",
+   "2월 중앙아시아 여행",
+   "설 연휴 알마티"
+  ],
+  "scene": "suitcase",
+  "status": "todo"
+ },
+ {
+  "id": 125,
+  "topic": "우즈베키스탄 1월 날씨와 옷차림: 도시별 기온과 눈 오는 날 일정 짜기",
+  "slug": "uzbekistan-january-weather",
+  "city": "우즈베키스탄",
+  "region": "uz",
+  "cat": "prep",
+  "keywords": [
+   "우즈베키스탄 1월 날씨",
+   "우즈베키스탄 1월",
+   "사마르칸트 1월 날씨",
+   "타슈켄트 1월 날씨"
+  ],
+  "scene": "dome_city",
+  "status": "todo"
+ },
+ {
+  "id": 126,
+  "topic": "알마티 1월 날씨와 옷차림: 한겨울 기온·스키·근교 투어 가능 여부",
+  "slug": "almaty-january-weather",
+  "city": "알마티",
+  "region": "kz",
+  "cat": "prep",
+  "keywords": [
+   "알마티 1월 날씨",
+   "알마티 1월",
+   "알마티 겨울 여행",
+   "카자흐스탄 1월 날씨"
+  ],
+  "scene": "snow_mountain",
+  "status": "todo"
+ },
+ {
   "id": 96,
   "topic": "사마르칸트 우르구트 바자르: 수자니·골동품 시장 가는 법과 흥정 요령",
   "slug": "urgut-bazaar",
