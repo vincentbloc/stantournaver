@@ -1624,7 +1624,8 @@
    "키르기스스탄 입국"
   ],
   "scene": "passport",
-  "status": "todo"
+  "status": "done",
+  "post": "kyrgyzstan-visa-30-days"
  },
  {
   "id": 112,
